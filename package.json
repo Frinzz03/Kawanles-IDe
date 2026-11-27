@@ -1,0 +1,40 @@
+{
+  "name": "kawanles-ide",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "env:sync": "node scripts/sync-vite-env.mjs",
+    "db:migrate": "node database/run-migrations.mjs",
+    "db:import-kurikulum": "node scripts/parse-curriculum.mjs && node scripts/import-curriculum-neon.mjs",
+    "db:seed-starter": "node scripts/seed-starter-content.mjs",
+    "test:e2e": "node scripts/test-e2e-neon.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1175.0",
+    "@aws-sdk/s3-request-presigner": "^3.1175.0",
+    "@neon/auth": "^0.8.2",
+    "@neon/config": "^1.14.6",
+    "@neon/env": "^2.1.9",
+    "@neon/functions": "^0.11.0",
+    "@neondatabase/serverless": "^1.2.1",
+    "clsx": "^2.1.1",
+    "hono": "^4.13.20",
+    "jose": "^6.2.18",
+    "lucide-react": "^0.469.0",
+    "pg": "^8.23.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "vite": "^6.0.7"
+  }
+}

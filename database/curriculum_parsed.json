@@ -1,0 +1,5578 @@
+[
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-01",
+    "sequence_number": 1,
+    "title": "Mengenal Bilangan",
+    "description": "Mengenal angka 1--10; menghitung benda; membaca dan menulis angka; membandingkan banyak dan sedikit",
+    "subtopics": [
+      "Mengenal angka 1--10",
+      "Menghitung benda",
+      "Membaca dan menulis angka",
+      "Membandingkan banyak dan sedikit"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-02",
+    "sequence_number": 2,
+    "title": "Bilangan sampai 20",
+    "description": "Mengenal bilangan 11--20; mengurutkan bilangan; membandingkan bilangan; menyusun dan mengurai bilangan sederhana",
+    "subtopics": [
+      "Mengenal bilangan 11--20",
+      "Mengurutkan bilangan",
+      "Membandingkan bilangan",
+      "Menyusun dan mengurai bilangan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-03",
+    "sequence_number": 3,
+    "title": "Penjumlahan dan Pengurangan",
+    "description": "Penjumlahan menggunakan benda konkret; pengurangan menggunakan benda konkret; soal cerita sederhana",
+    "subtopics": [
+      "Penjumlahan menggunakan benda konkret",
+      "Pengurangan menggunakan benda konkret",
+      "Soal cerita sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-04",
+    "sequence_number": 4,
+    "title": "Mengenal Bentuk dan Posisi",
+    "description": "Segitiga, segiempat, dan lingkaran; kubus, balok, kerucut, dan bola; posisi kanan, kiri, atas, bawah, depan, dan belakang",
+    "subtopics": [
+      "Segitiga, segiempat, dan lingkaran",
+      "Kubus, balok, kerucut, dan bola",
+      "Posisi kanan, kiri, atas, bawah, depan, dan belakang"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-05",
+    "sequence_number": 5,
+    "title": "Pengukuran Sederhana",
+    "description": "Membandingkan panjang dan pendek; membandingkan berat dan ringan; membandingkan durasi waktu; mengukur dengan satuan tidak baku",
+    "subtopics": [
+      "Membandingkan panjang dan pendek",
+      "Membandingkan berat dan ringan",
+      "Membandingkan durasi waktu",
+      "Mengukur dengan satuan tidak baku"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 1,
+    "code": "MAT-SD1-06",
+    "sequence_number": 6,
+    "title": "Pola dan Data Sederhana",
+    "description": "Pola gambar dan warna; melanjutkan pola; mengelompokkan benda; menghitung dan menyajikan data dengan turus atau piktogram sederhana",
+    "subtopics": [
+      "Pola gambar dan warna",
+      "Melanjutkan pola",
+      "Mengelompokkan benda",
+      "Menghitung dan menyajikan data dengan turus atau piktogram sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-01",
+    "sequence_number": 1,
+    "title": "Bilangan sampai 100",
+    "description": "Membaca dan menulis bilangan; nilai tempat puluhan dan satuan; membandingkan dan mengurutkan; menyusun dan mengurai bilangan",
+    "subtopics": [
+      "Membaca dan menulis bilangan",
+      "Nilai tempat puluhan dan satuan",
+      "Membandingkan dan mengurutkan",
+      "Menyusun dan mengurai bilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-02",
+    "sequence_number": 2,
+    "title": "Operasi Penjumlahan dan Pengurangan",
+    "description": "Penjumlahan dan pengurangan dengan benda konkret; hubungan penjumlahan dan pengurangan; kalimat matematika; soal cerita",
+    "subtopics": [
+      "Penjumlahan dan pengurangan dengan benda konkret",
+      "Hubungan penjumlahan dan pengurangan",
+      "Kalimat matematika",
+      "Soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-03",
+    "sequence_number": 3,
+    "title": "Pecahan Sederhana",
+    "description": "Mengenal setengah (½); mengenal seperempat (¼); membagi benda atau kumpulan benda sama banyak",
+    "subtopics": [
+      "Mengenal setengah (½)",
+      "Mengenal seperempat (¼)",
+      "Membagi benda atau kumpulan benda sama banyak"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-04",
+    "sequence_number": 4,
+    "title": "Pola dan Kalimat Matematika",
+    "description": "Memahami tanda sama dengan (=); menemukan bilangan yang belum diketahui pada penjumlahan dan pengurangan sederhana; pola gambar dan pola bilangan",
+    "subtopics": [
+      "Memahami tanda sama dengan (=)",
+      "Menemukan bilangan yang belum diketahui pada penjumlahan dan pengurangan sederhana",
+      "Pola gambar dan pola bilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-05",
+    "sequence_number": 5,
+    "title": "Pengukuran dan Perbandingan",
+    "description": "Membandingkan panjang dan berat; mengestimasi ukuran; membandingkan durasi waktu; pengukuran menggunakan satuan tidak baku",
+    "subtopics": [
+      "Membandingkan panjang dan berat",
+      "Mengestimasi ukuran",
+      "Membandingkan durasi waktu",
+      "Pengukuran menggunakan satuan tidak baku"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 2,
+    "code": "MAT-SD2-06",
+    "sequence_number": 6,
+    "title": "Geometri dan Data",
+    "description": "Mengelompokkan bangun datar dan bangun ruang; menyusun dan mengurai bangun datar; turus dan piktogram; membaca data sederhana",
+    "subtopics": [
+      "Mengelompokkan bangun datar dan bangun ruang",
+      "Menyusun dan mengurai bangun datar",
+      "Turus dan piktogram",
+      "Membaca data sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-01",
+    "sequence_number": 1,
+    "title": "Bilangan sampai 10.000",
+    "description": "Membaca dan menulis bilangan; nilai tempat; membandingkan; mengurutkan; komposisi dan dekomposisi bilangan",
+    "subtopics": [
+      "Membaca dan menulis bilangan",
+      "Nilai tempat",
+      "Membandingkan",
+      "Mengurutkan",
+      "Komposisi dan dekomposisi bilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-02",
+    "sequence_number": 2,
+    "title": "Penjumlahan dan Pengurangan",
+    "description": "Penjumlahan sampai 1.000; pengurangan sampai 1.000; strategi menghitung; soal cerita",
+    "subtopics": [
+      "Penjumlahan sampai 1.000",
+      "Pengurangan sampai 1.000",
+      "Strategi menghitung",
+      "Soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-03",
+    "sequence_number": 3,
+    "title": "Perkalian dan Pembagian",
+    "description": "Konsep perkalian sebagai penjumlahan berulang; konsep pembagian; perkalian dan pembagian bilangan sampai 100; soal cerita",
+    "subtopics": [
+      "Konsep perkalian sebagai penjumlahan berulang",
+      "Konsep pembagian",
+      "Perkalian dan pembagian bilangan sampai 100",
+      "Soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-04",
+    "sequence_number": 4,
+    "title": "Pecahan dan Desimal Dasar",
+    "description": "Pecahan pembilang satu; pecahan dengan penyebut sama; pecahan senilai sederhana; pengenalan desimal",
+    "subtopics": [
+      "Pecahan pembilang satu",
+      "Pecahan dengan penyebut sama",
+      "Pecahan senilai sederhana",
+      "Pengenalan desimal"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-05",
+    "sequence_number": 5,
+    "title": "Pengukuran",
+    "description": "Satuan panjang cm dan m; satuan berat g dan kg; luas dengan satuan tidak baku; volume dengan satuan tidak baku",
+    "subtopics": [
+      "Satuan panjang cm dan m",
+      "Satuan berat g dan kg",
+      "Luas dengan satuan tidak baku",
+      "Volume dengan satuan tidak baku"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-06",
+    "sequence_number": 6,
+    "title": "Geometri dan Pola",
+    "description": "Ciri bangun datar; segitiga dan segiempat; menyusun dan mengurai bangun datar; pola gambar dan pola bilangan",
+    "subtopics": [
+      "Ciri bangun datar",
+      "Segitiga dan segiempat",
+      "Menyusun dan mengurai bangun datar",
+      "Pola gambar dan pola bilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 3,
+    "code": "MAT-SD3-07",
+    "sequence_number": 7,
+    "title": "Penyajian Data",
+    "description": "Mengumpulkan data; tabel sederhana; diagram gambar; piktogram; diagram batang sederhana",
+    "subtopics": [
+      "Mengumpulkan data",
+      "Tabel sederhana",
+      "Diagram gambar",
+      "Piktogram",
+      "Diagram batang sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-01",
+    "sequence_number": 1,
+    "title": "Pendalaman Bilangan",
+    "description": "Bilangan sampai 10.000; nilai tempat; perbandingan dan pengurutan; komposisi dan dekomposisi bilangan",
+    "subtopics": [
+      "Bilangan sampai 10.000",
+      "Nilai tempat",
+      "Perbandingan dan pengurutan",
+      "Komposisi dan dekomposisi bilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-02",
+    "sequence_number": 2,
+    "title": "Operasi Hitung Bilangan",
+    "description": "Penjumlahan dan pengurangan sampai 1.000; perkalian dan pembagian sampai 100; sifat operasi dasar; soal cerita bertahap",
+    "subtopics": [
+      "Penjumlahan dan pengurangan sampai 1.000",
+      "Perkalian dan pembagian sampai 100",
+      "Sifat operasi dasar",
+      "Soal cerita bertahap"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-03",
+    "sequence_number": 3,
+    "title": "Faktor dan Kelipatan",
+    "description": "Faktor bilangan; kelipatan bilangan; penerapan faktor dan kelipatan dalam masalah sederhana",
+    "subtopics": [
+      "Faktor bilangan",
+      "Kelipatan bilangan",
+      "Penerapan faktor dan kelipatan dalam masalah sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-04",
+    "sequence_number": 4,
+    "title": "Pecahan dan Desimal",
+    "description": "Membandingkan pecahan; pecahan senilai; mengurutkan pecahan; hubungan pecahan dan desimal; pengenalan persen sebagai pengayaan/jembatan menuju Fase C",
+    "subtopics": [
+      "Membandingkan pecahan",
+      "Pecahan senilai",
+      "Mengurutkan pecahan",
+      "Hubungan pecahan dan desimal",
+      "Pengenalan persen sebagai pengayaan/jembatan menuju Fase C"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-05",
+    "sequence_number": 5,
+    "title": "Pengukuran dan Luas",
+    "description": "Hubungan cm dan m; hubungan g dan kg; pengukuran luas; pengukuran volume menggunakan satuan baku dan tidak baku",
+    "subtopics": [
+      "Hubungan cm dan m",
+      "Hubungan g dan kg",
+      "Pengukuran luas",
+      "Pengukuran volume menggunakan satuan baku dan tidak baku"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-06",
+    "sequence_number": 6,
+    "title": "Bangun Datar",
+    "description": "Sifat segitiga; sifat segiempat; klasifikasi bangun datar; komposisi dan dekomposisi bangun",
+    "subtopics": [
+      "Sifat segitiga",
+      "Sifat segiempat",
+      "Klasifikasi bangun datar",
+      "Komposisi dan dekomposisi bangun"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 4,
+    "code": "MAT-SD4-07",
+    "sequence_number": 7,
+    "title": "Pengolahan Data",
+    "description": "Membaca tabel; membaca piktogram; diagram gambar; diagram batang; menginterpretasi informasi dari data",
+    "subtopics": [
+      "Membaca tabel",
+      "Membaca piktogram",
+      "Diagram gambar",
+      "Diagram batang",
+      "Menginterpretasi informasi dari data"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-01",
+    "sequence_number": 1,
+    "title": "Bilangan sampai 1.000.000",
+    "description": "Membaca dan menulis bilangan; nilai tempat; membandingkan dan mengurutkan; komposisi dan dekomposisi",
+    "subtopics": [
+      "Membaca dan menulis bilangan",
+      "Nilai tempat",
+      "Membandingkan dan mengurutkan",
+      "Komposisi dan dekomposisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-02",
+    "sequence_number": 2,
+    "title": "Operasi Bilangan Cacah",
+    "description": "Penjumlahan; pengurangan; perkalian; pembagian; operasi campuran; soal cerita",
+    "subtopics": [
+      "Penjumlahan",
+      "Pengurangan",
+      "Perkalian",
+      "Pembagian",
+      "Operasi campuran",
+      "Soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-03",
+    "sequence_number": 3,
+    "title": "Faktor, Kelipatan, KPK, dan FPB",
+    "description": "Faktor dan kelipatan; bilangan prima sebagai pendukung; menentukan KPK; menentukan FPB; penerapan dalam soal cerita",
+    "subtopics": [
+      "Faktor dan kelipatan",
+      "Bilangan prima sebagai pendukung",
+      "Menentukan KPK",
+      "Menentukan FPB",
+      "Penerapan dalam soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-04",
+    "sequence_number": 4,
+    "title": "Pecahan",
+    "description": "Pecahan biasa; pecahan campuran; pecahan senilai; membandingkan dan mengurutkan pecahan; penjumlahan dan pengurangan pecahan",
+    "subtopics": [
+      "Pecahan biasa",
+      "Pecahan campuran",
+      "Pecahan senilai",
+      "Membandingkan dan mengurutkan pecahan",
+      "Penjumlahan dan pengurangan pecahan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-05",
+    "sequence_number": 5,
+    "title": "Desimal dan Persen",
+    "description": "Mengubah pecahan ke desimal; mengubah pecahan ke persen; membandingkan bilangan desimal; mengurutkan bilangan desimal",
+    "subtopics": [
+      "Mengubah pecahan ke desimal",
+      "Mengubah pecahan ke persen",
+      "Membandingkan bilangan desimal",
+      "Mengurutkan bilangan desimal"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-06",
+    "sequence_number": 6,
+    "title": "Pengukuran dan Bangun Datar",
+    "description": "Keliling bangun datar; luas bangun datar; pengukuran waktu; pengenalan sudut",
+    "subtopics": [
+      "Keliling bangun datar",
+      "Luas bangun datar",
+      "Pengukuran waktu",
+      "Pengenalan sudut"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-07",
+    "sequence_number": 7,
+    "title": "Geometri Ruang",
+    "description": "Mengenal kubus dan balok; unsur bangun ruang; menyusun dan mengurai bangun ruang sederhana",
+    "subtopics": [
+      "Mengenal kubus dan balok",
+      "Unsur bangun ruang",
+      "Menyusun dan mengurai bangun ruang sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 5,
+    "code": "MAT-SD5-08",
+    "sequence_number": 8,
+    "title": "Data dan Peluang",
+    "description": "Membaca tabel frekuensi; diagram batang; piktogram; membandingkan data; pengenalan kemungkinan suatu kejadian",
+    "subtopics": [
+      "Membaca tabel frekuensi",
+      "Diagram batang",
+      "Piktogram",
+      "Membandingkan data",
+      "Pengenalan kemungkinan suatu kejadian"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-01",
+    "sequence_number": 1,
+    "title": "Pendalaman Bilangan",
+    "description": "Bilangan sampai 1.000.000; operasi bilangan cacah; operasi campuran; masalah kontekstual",
+    "subtopics": [
+      "Bilangan sampai 1.000.000",
+      "Operasi bilangan cacah",
+      "Operasi campuran",
+      "Masalah kontekstual"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-02",
+    "sequence_number": 2,
+    "title": "Pecahan dan Operasinya",
+    "description": "Penjumlahan dan pengurangan pecahan; perkalian pecahan dengan bilangan asli; pembagian pecahan dengan bilangan asli; pecahan campuran",
+    "subtopics": [
+      "Penjumlahan dan pengurangan pecahan",
+      "Perkalian pecahan dengan bilangan asli",
+      "Pembagian pecahan dengan bilangan asli",
+      "Pecahan campuran"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-03",
+    "sequence_number": 3,
+    "title": "Rasio dan Proporsi",
+    "description": "Rasio satuan; perbandingan dalam kehidupan sehari-hari; proporsi; penerapan perkalian dan pembagian dalam masalah proporsi",
+    "subtopics": [
+      "Rasio satuan",
+      "Perbandingan dalam kehidupan sehari-hari",
+      "Proporsi",
+      "Penerapan perkalian dan pembagian dalam masalah proporsi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-04",
+    "sequence_number": 4,
+    "title": "Uang dan Literasi Finansial",
+    "description": "Nilai uang; perhitungan transaksi; pengeluaran dan pemasukan sederhana; penyelesaian masalah yang berkaitan dengan uang",
+    "subtopics": [
+      "Nilai uang",
+      "Perhitungan transaksi",
+      "Pengeluaran dan pemasukan sederhana",
+      "Penyelesaian masalah yang berkaitan dengan uang"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-05",
+    "sequence_number": 5,
+    "title": "Keliling, Luas, dan Sudut",
+    "description": "Keliling bangun datar; luas segitiga dan segiempat; luas gabungan bangun datar; durasi waktu; pengukuran sudut",
+    "subtopics": [
+      "Keliling bangun datar",
+      "Luas segitiga dan segiempat",
+      "Luas gabungan bangun datar",
+      "Durasi waktu",
+      "Pengukuran sudut"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-06",
+    "sequence_number": 6,
+    "title": "Bangun Ruang dan Peta",
+    "description": "Kubus dan balok; bangun ruang gabungan; tampak depan, atas, dan samping; posisi dan lokasi pada peta berpetak",
+    "subtopics": [
+      "Kubus dan balok",
+      "Bangun ruang gabungan",
+      "Tampak depan, atas, dan samping",
+      "Posisi dan lokasi pada peta berpetak"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-07",
+    "sequence_number": 7,
+    "title": "Pengolahan Data",
+    "description": "Tabel frekuensi; diagram batang; piktogram; membaca dan menganalisis data hasil pengukuran",
+    "subtopics": [
+      "Tabel frekuensi",
+      "Diagram batang",
+      "Piktogram",
+      "Membaca dan menganalisis data hasil pengukuran"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 6,
+    "code": "MAT-SD6-08",
+    "sequence_number": 8,
+    "title": "Peluang Sederhana",
+    "description": "Percobaan acak sederhana; kejadian dengan kemungkinan lebih besar; kejadian dengan kemungkinan lebih kecil",
+    "subtopics": [
+      "Percobaan acak sederhana",
+      "Kejadian dengan kemungkinan lebih besar",
+      "Kejadian dengan kemungkinan lebih kecil"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-01",
+    "sequence_number": 1,
+    "title": "Bilangan Bulat",
+    "description": "Pengertian bilangan bulat; bilangan positif dan negatif; garis bilangan; membandingkan dan mengurutkan; penjumlahan dan pengurangan; perkalian dan pembagian; operasi campuran",
+    "subtopics": [
+      "Pengertian bilangan bulat",
+      "Bilangan positif dan negatif",
+      "Garis bilangan",
+      "Membandingkan dan mengurutkan",
+      "Penjumlahan dan pengurangan",
+      "Perkalian dan pembagian",
+      "Operasi campuran"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-02",
+    "sequence_number": 2,
+    "title": "Bilangan Pecahan dan Desimal",
+    "description": "Pecahan biasa dan campuran; pecahan senilai; membandingkan pecahan; operasi pecahan; bilangan desimal; hubungan pecahan, desimal, dan persen",
+    "subtopics": [
+      "Pecahan biasa dan campuran",
+      "Pecahan senilai",
+      "Membandingkan pecahan",
+      "Operasi pecahan",
+      "Bilangan desimal",
+      "Hubungan pecahan, desimal, dan persen"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-03",
+    "sequence_number": 3,
+    "title": "Rasio dan Perbandingan",
+    "description": "Pengertian rasio; rasio dua besaran; rasio satuan; perbandingan senilai; penerapan perbandingan dalam kehidupan sehari-hari",
+    "subtopics": [
+      "Pengertian rasio",
+      "Rasio dua besaran",
+      "Rasio satuan",
+      "Perbandingan senilai",
+      "Penerapan perbandingan dalam kehidupan sehari-hari"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-04",
+    "sequence_number": 4,
+    "title": "Bentuk Aljabar",
+    "description": "Variabel, koefisien, konstanta; suku dan suku sejenis; penjumlahan dan pengurangan bentuk aljabar; perkalian sederhana; substitusi nilai variabel; penyederhanaan bentuk aljabar",
+    "subtopics": [
+      "Variabel, koefisien, konstanta",
+      "Suku dan suku sejenis",
+      "Penjumlahan dan pengurangan bentuk aljabar",
+      "Perkalian sederhana",
+      "Substitusi nilai variabel",
+      "Penyederhanaan bentuk aljabar"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-05",
+    "sequence_number": 5,
+    "title": "Persamaan dan Pertidaksamaan Linear Satu Variabel",
+    "description": "Kalimat matematika; konsep persamaan; penyelesaian persamaan linear satu variabel; konsep pertidaksamaan; penyelesaian pertidaksamaan; soal cerita",
+    "subtopics": [
+      "Kalimat matematika",
+      "Konsep persamaan",
+      "Penyelesaian persamaan linear satu variabel",
+      "Konsep pertidaksamaan",
+      "Penyelesaian pertidaksamaan",
+      "Soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-06",
+    "sequence_number": 6,
+    "title": "Himpunan dan Relasi Dasar",
+    "description": "Pengertian himpunan; anggota dan bukan anggota; penyajian himpunan; diagram Venn sederhana; pengenalan relasi",
+    "subtopics": [
+      "Pengertian himpunan",
+      "Anggota dan bukan anggota",
+      "Penyajian himpunan",
+      "Diagram Venn sederhana",
+      "Pengenalan relasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-07",
+    "sequence_number": 7,
+    "title": "Garis dan Sudut",
+    "description": "Titik, garis, dan ruas garis; hubungan antargaris; sudut dan jenisnya; sudut berpelurus dan berpenyiku; hubungan sudut pada garis berpotongan",
+    "subtopics": [
+      "Titik, garis, dan ruas garis",
+      "Hubungan antargaris",
+      "Sudut dan jenisnya",
+      "Sudut berpelurus dan berpenyiku",
+      "Hubungan sudut pada garis berpotongan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 7,
+    "code": "MAT-SMP7-08",
+    "sequence_number": 8,
+    "title": "Data dan Penyajiannya",
+    "description": "Pengumpulan data sederhana; tabel; diagram batang; diagram lingkaran; membaca dan menginterpretasi data",
+    "subtopics": [
+      "Pengumpulan data sederhana",
+      "Tabel",
+      "Diagram batang",
+      "Diagram lingkaran",
+      "Membaca dan menginterpretasi data"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-01",
+    "sequence_number": 1,
+    "title": "Pola Bilangan",
+    "description": "Pola bilangan; pola gambar; pola bilangan membesar dan mengecil; generalisasi pola; menentukan suku berdasarkan pola",
+    "subtopics": [
+      "Pola bilangan",
+      "Pola gambar",
+      "Pola bilangan membesar dan mengecil",
+      "Generalisasi pola",
+      "Menentukan suku berdasarkan pola"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-02",
+    "sequence_number": 2,
+    "title": "Relasi dan Fungsi",
+    "description": "Pengertian relasi; pengertian fungsi; domain, kodomain, dan range; diagram panah; tabel pasangan berurutan; grafik fungsi sederhana",
+    "subtopics": [
+      "Pengertian relasi",
+      "Pengertian fungsi",
+      "Domain, kodomain, dan range",
+      "Diagram panah",
+      "Tabel pasangan berurutan",
+      "Grafik fungsi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-03",
+    "sequence_number": 3,
+    "title": "Persamaan Garis dan Fungsi Linear",
+    "description": "Konsep koordinat Kartesius; pasangan berurutan; persamaan garis lurus; gradien; menentukan persamaan garis; grafik fungsi linear; penerapan fungsi linear",
+    "subtopics": [
+      "Konsep koordinat Kartesius",
+      "Pasangan berurutan",
+      "Persamaan garis lurus",
+      "Gradien",
+      "Menentukan persamaan garis",
+      "Grafik fungsi linear",
+      "Penerapan fungsi linear"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-04",
+    "sequence_number": 4,
+    "title": "Sistem Persamaan Linear Dua Variabel (SPLDV)",
+    "description": "Pengertian SPLDV; membuat model matematika; metode grafik; metode substitusi; metode eliminasi; metode gabungan; penerapan soal cerita",
+    "subtopics": [
+      "Pengertian SPLDV",
+      "Membuat model matematika",
+      "Metode grafik",
+      "Metode substitusi",
+      "Metode eliminasi",
+      "Metode gabungan",
+      "Penerapan soal cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-05",
+    "sequence_number": 5,
+    "title": "Teorema Pythagoras",
+    "description": "Kuadrat dan akar kuadrat sebagai prasyarat; konsep dan pembuktian sederhana Teorema Pythagoras; menentukan panjang sisi segitiga siku-siku; penerapan jarak dua titik",
+    "subtopics": [
+      "Kuadrat dan akar kuadrat sebagai prasyarat",
+      "Konsep dan pembuktian sederhana Teorema Pythagoras",
+      "Menentukan panjang sisi segitiga siku-siku",
+      "Penerapan jarak dua titik"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-06",
+    "sequence_number": 6,
+    "title": "Bangun Datar dan Kekongruenan",
+    "description": "Segitiga dan segiempat; sifat-sifat bangun datar; kekongruenan; syarat kongruen; penerapan dalam masalah geometri",
+    "subtopics": [
+      "Segitiga dan segiempat",
+      "Sifat-sifat bangun datar",
+      "Kekongruenan",
+      "Syarat kongruen",
+      "Penerapan dalam masalah geometri"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-07",
+    "sequence_number": 7,
+    "title": "Kesebangunan",
+    "description": "Konsep kesebangunan; perbandingan sisi; kesebangunan segitiga; kesebangunan segiempat; penerapan skala dan ukuran",
+    "subtopics": [
+      "Konsep kesebangunan",
+      "Perbandingan sisi",
+      "Kesebangunan segitiga",
+      "Kesebangunan segiempat",
+      "Penerapan skala dan ukuran"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 8,
+    "code": "MAT-SMP8-08",
+    "sequence_number": 8,
+    "title": "Statistika Dasar",
+    "description": "Pengumpulan data; populasi dan sampel; tabel frekuensi; diagram batang dan lingkaran; mean; median; modus; jangkauan",
+    "subtopics": [
+      "Pengumpulan data",
+      "Populasi dan sampel",
+      "Tabel frekuensi",
+      "Diagram batang dan lingkaran",
+      "Mean",
+      "Median",
+      "Modus",
+      "Jangkauan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-01",
+    "sequence_number": 1,
+    "title": "Bilangan Berpangkat dan Bentuk Akar",
+    "description": "Pangkat bilangan bulat; sifat-sifat perpangkatan; pangkat nol dan negatif; bentuk akar; operasi bentuk akar sederhana; rasionalisasi penyebut sederhana",
+    "subtopics": [
+      "Pangkat bilangan bulat",
+      "Sifat-sifat perpangkatan",
+      "Pangkat nol dan negatif",
+      "Bentuk akar",
+      "Operasi bentuk akar sederhana",
+      "Rasionalisasi penyebut sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-02",
+    "sequence_number": 2,
+    "title": "Notasi Ilmiah dan Bilangan Real",
+    "description": "Pengertian notasi ilmiah; mengubah bilangan ke notasi ilmiah; operasi sederhana dalam notasi ilmiah; estimasi dan pembulatan; penerapan bilangan real",
+    "subtopics": [
+      "Pengertian notasi ilmiah",
+      "Mengubah bilangan ke notasi ilmiah",
+      "Operasi sederhana dalam notasi ilmiah",
+      "Estimasi dan pembulatan",
+      "Penerapan bilangan real"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-03",
+    "sequence_number": 3,
+    "title": "Rasio, Skala, dan Laju Perubahan",
+    "description": "Skala pada peta dan gambar; perbandingan senilai dan berbalik nilai; proporsi; laju perubahan; penerapan rasio dalam masalah kontekstual",
+    "subtopics": [
+      "Skala pada peta dan gambar",
+      "Perbandingan senilai dan berbalik nilai",
+      "Proporsi",
+      "Laju perubahan",
+      "Penerapan rasio dalam masalah kontekstual"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-04",
+    "sequence_number": 4,
+    "title": "Lingkaran",
+    "description": "Unsur-unsur lingkaran; keliling lingkaran; luas lingkaran; panjang busur; sudut pusat dan sudut keliling; luas juring; soal kontekstual",
+    "subtopics": [
+      "Unsur-unsur lingkaran",
+      "Keliling lingkaran",
+      "Luas lingkaran",
+      "Panjang busur",
+      "Sudut pusat dan sudut keliling",
+      "Luas juring",
+      "Soal kontekstual"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-05",
+    "sequence_number": 5,
+    "title": "Bangun Ruang",
+    "description": "Prisma; tabung; limas; kerucut; bola; jaring-jaring bangun ruang; luas permukaan; volume; soal penerapan",
+    "subtopics": [
+      "Prisma",
+      "Tabung",
+      "Limas",
+      "Kerucut",
+      "Bola",
+      "Jaring-jaring bangun ruang",
+      "Luas permukaan",
+      "Volume",
+      "Soal penerapan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-06",
+    "sequence_number": 6,
+    "title": "Hubungan Antarsudut dan Geometri",
+    "description": "Garis sejajar dan garis transversal; hubungan antarsudut; jumlah sudut segitiga; sudut yang belum diketahui; penerapan geometri",
+    "subtopics": [
+      "Garis sejajar dan garis transversal",
+      "Hubungan antarsudut",
+      "Jumlah sudut segitiga",
+      "Sudut yang belum diketahui",
+      "Penerapan geometri"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-07",
+    "sequence_number": 7,
+    "title": "Transformasi Geometri",
+    "description": "Koordinat Kartesius; translasi; refleksi; rotasi; dilatasi; transformasi titik dan bangun datar",
+    "subtopics": [
+      "Koordinat Kartesius",
+      "Translasi",
+      "Refleksi",
+      "Rotasi",
+      "Dilatasi",
+      "Transformasi titik dan bangun datar"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-08",
+    "sequence_number": 8,
+    "title": "Statistika Lanjutan",
+    "description": "Populasi dan sampel; teknik pengambilan sampel sederhana; penyajian data; mean, median, modus, dan jangkauan; membandingkan dua kelompok data; interpretasi hasil",
+    "subtopics": [
+      "Populasi dan sampel",
+      "Teknik pengambilan sampel sederhana",
+      "Penyajian data",
+      "Mean, median, modus, dan jangkauan",
+      "Membandingkan dua kelompok data",
+      "Interpretasi hasil"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "MAT",
+    "grade_number": 9,
+    "code": "MAT-SMP9-09",
+    "sequence_number": 9,
+    "title": "Peluang",
+    "description": "Ruang sampel; titik sampel; kejadian; peluang suatu kejadian; frekuensi relatif; frekuensi harapan; percobaan acak sederhana",
+    "subtopics": [
+      "Ruang sampel",
+      "Titik sampel",
+      "Kejadian",
+      "Peluang suatu kejadian",
+      "Frekuensi relatif",
+      "Frekuensi harapan",
+      "Percobaan acak sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-01",
+    "sequence_number": 1,
+    "title": "Mengenal Huruf dan Bunyi",
+    "description": "Mengenal huruf vokal; mengenal huruf konsonan; membedakan bunyi huruf; menghubungkan huruf dengan bunyinya",
+    "subtopics": [
+      "Mengenal huruf vokal",
+      "Mengenal huruf konsonan",
+      "Membedakan bunyi huruf",
+      "Menghubungkan huruf dengan bunyinya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-02",
+    "sequence_number": 2,
+    "title": "Membaca Suku Kata dan Kata",
+    "description": "Mengenal suku kata; membaca kata sederhana; menggabungkan suku kata; membaca kata yang berkaitan dengan benda sekitar",
+    "subtopics": [
+      "Mengenal suku kata",
+      "Membaca kata sederhana",
+      "Menggabungkan suku kata",
+      "Membaca kata yang berkaitan dengan benda sekitar"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-03",
+    "sequence_number": 3,
+    "title": "Membaca Kalimat Sederhana",
+    "description": "Mengenal kalimat; membaca kalimat pendek; memahami makna kalimat; mencocokkan kalimat dengan gambar",
+    "subtopics": [
+      "Mengenal kalimat",
+      "Membaca kalimat pendek",
+      "Memahami makna kalimat",
+      "Mencocokkan kalimat dengan gambar"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-04",
+    "sequence_number": 4,
+    "title": "Mengenal Diri dan Lingkungan",
+    "description": "Memperkenalkan diri; mengenal anggota keluarga; mendeskripsikan benda; menyebutkan kegiatan sehari-hari",
+    "subtopics": [
+      "Memperkenalkan diri",
+      "Mengenal anggota keluarga",
+      "Mendeskripsikan benda",
+      "Menyebutkan kegiatan sehari-hari"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-05",
+    "sequence_number": 5,
+    "title": "Percakapan dan Kesantunan",
+    "description": "Mengucapkan salam; bertanya dan menjawab; menyampaikan pendapat sederhana; menggunakan kata tolong, maaf, dan terima kasih",
+    "subtopics": [
+      "Mengucapkan salam",
+      "Bertanya dan menjawab",
+      "Menyampaikan pendapat sederhana",
+      "Menggunakan kata tolong, maaf, dan terima kasih"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-06",
+    "sequence_number": 6,
+    "title": "Cerita Anak dan Fabel",
+    "description": "Mendengarkan cerita; mengenal tokoh; memahami peristiwa; menyebutkan pesan sederhana dari cerita",
+    "subtopics": [
+      "Mendengarkan cerita",
+      "Mengenal tokoh",
+      "Memahami peristiwa",
+      "Menyebutkan pesan sederhana dari cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-07",
+    "sequence_number": 7,
+    "title": "Menulis Permulaan",
+    "description": "Menulis huruf; menyalin kata; melengkapi kata; menulis kalimat sederhana berdasarkan gambar",
+    "subtopics": [
+      "Menulis huruf",
+      "Menyalin kata",
+      "Melengkapi kata",
+      "Menulis kalimat sederhana berdasarkan gambar"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 1,
+    "code": "BIND-SD1-08",
+    "sequence_number": 8,
+    "title": "Puisi dan Ekspresi Bahasa",
+    "description": "Mengenal puisi anak; membaca puisi pendek; mengenal bunyi dan irama; mengungkapkan perasaan melalui kalimat sederhana",
+    "subtopics": [
+      "Mengenal puisi anak",
+      "Membaca puisi pendek",
+      "Mengenal bunyi dan irama",
+      "Mengungkapkan perasaan melalui kalimat sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-01",
+    "sequence_number": 1,
+    "title": "Membaca dan Memahami Kata",
+    "description": "Membaca kata baru; mengenal kelompok kata; memahami arti kata berdasarkan konteks; menyusun kata menjadi kalimat",
+    "subtopics": [
+      "Membaca kata baru",
+      "Mengenal kelompok kata",
+      "Memahami arti kata berdasarkan konteks",
+      "Menyusun kata menjadi kalimat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-02",
+    "sequence_number": 2,
+    "title": "Kalimat dan Paragraf Sederhana",
+    "description": "Mengenal kalimat berita dan kalimat tanya; menyusun kalimat; mengenal paragraf sederhana; melengkapi paragraf",
+    "subtopics": [
+      "Mengenal kalimat berita dan kalimat tanya",
+      "Menyusun kalimat",
+      "Mengenal paragraf sederhana",
+      "Melengkapi paragraf"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-03",
+    "sequence_number": 3,
+    "title": "Teks Deskripsi Sederhana",
+    "description": "Pengertian deskripsi; mendeskripsikan orang; mendeskripsikan hewan; mendeskripsikan benda dan tempat",
+    "subtopics": [
+      "Pengertian deskripsi",
+      "Mendeskripsikan orang",
+      "Mendeskripsikan hewan",
+      "Mendeskripsikan benda dan tempat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-04",
+    "sequence_number": 4,
+    "title": "Cerita Pengalaman",
+    "description": "Mengenal cerita pengalaman; menentukan urutan kejadian; menceritakan pengalaman pribadi; menulis pengalaman sederhana",
+    "subtopics": [
+      "Mengenal cerita pengalaman",
+      "Menentukan urutan kejadian",
+      "Menceritakan pengalaman pribadi",
+      "Menulis pengalaman sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-05",
+    "sequence_number": 5,
+    "title": "Cerita Anak dan Fabel",
+    "description": "Memahami tokoh dan karakter; mengenali latar; memahami urutan peristiwa; menemukan pesan cerita",
+    "subtopics": [
+      "Memahami tokoh dan karakter",
+      "Mengenali latar",
+      "Memahami urutan peristiwa",
+      "Menemukan pesan cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-06",
+    "sequence_number": 6,
+    "title": "Teks Instruksi",
+    "description": "Mengenal petunjuk sederhana; memahami urutan langkah; membaca petunjuk kegiatan; menulis petunjuk sederhana",
+    "subtopics": [
+      "Mengenal petunjuk sederhana",
+      "Memahami urutan langkah",
+      "Membaca petunjuk kegiatan",
+      "Menulis petunjuk sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-07",
+    "sequence_number": 7,
+    "title": "Percakapan dan Menceritakan Kembali",
+    "description": "Bertanya dan menjawab; menanggapi pendapat; menceritakan kembali isi cerita; mengungkapkan perasaan",
+    "subtopics": [
+      "Bertanya dan menjawab",
+      "Menanggapi pendapat",
+      "Menceritakan kembali isi cerita",
+      "Mengungkapkan perasaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 2,
+    "code": "BIND-SD2-08",
+    "sequence_number": 8,
+    "title": "Menulis Teks Sederhana",
+    "description": "Menulis kalimat berdasarkan gambar; menyusun cerita pendek; menulis deskripsi; menulis puisi anak sederhana",
+    "subtopics": [
+      "Menulis kalimat berdasarkan gambar",
+      "Menyusun cerita pendek",
+      "Menulis deskripsi",
+      "Menulis puisi anak sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-01",
+    "sequence_number": 1,
+    "title": "Membaca Pemahaman",
+    "description": "Membaca teks dengan lancar; menemukan informasi penting; memahami arti kata; menjawab pertanyaan berdasarkan bacaan",
+    "subtopics": [
+      "Membaca teks dengan lancar",
+      "Menemukan informasi penting",
+      "Memahami arti kata",
+      "Menjawab pertanyaan berdasarkan bacaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-02",
+    "sequence_number": 2,
+    "title": "Ide Pokok dan Ide Pendukung",
+    "description": "Pengertian ide pokok; kalimat utama; ide pendukung; menentukan ide pokok paragraf; membuat ringkasan sederhana",
+    "subtopics": [
+      "Pengertian ide pokok",
+      "Kalimat utama",
+      "Ide pendukung",
+      "Menentukan ide pokok paragraf",
+      "Membuat ringkasan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-03",
+    "sequence_number": 3,
+    "title": "Teks Deskripsi",
+    "description": "Ciri-ciri teks deskripsi; menggambarkan objek; penggunaan kata sifat; menyusun paragraf deskripsi",
+    "subtopics": [
+      "Ciri-ciri teks deskripsi",
+      "Menggambarkan objek",
+      "Penggunaan kata sifat",
+      "Menyusun paragraf deskripsi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-04",
+    "sequence_number": 4,
+    "title": "Teks Narasi dan Cerita Anak",
+    "description": "Unsur cerita; tokoh dan penokohan; latar; alur; pesan cerita; menyusun cerita berdasarkan pengalaman",
+    "subtopics": [
+      "Unsur cerita",
+      "Tokoh dan penokohan",
+      "Latar",
+      "Alur",
+      "Pesan cerita",
+      "Menyusun cerita berdasarkan pengalaman"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-05",
+    "sequence_number": 5,
+    "title": "Teks Petunjuk dan Arahan",
+    "description": "Memahami instruksi; urutan langkah; penggunaan kata kerja; menyusun petunjuk kegiatan",
+    "subtopics": [
+      "Memahami instruksi",
+      "Urutan langkah",
+      "Penggunaan kata kerja",
+      "Menyusun petunjuk kegiatan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-06",
+    "sequence_number": 6,
+    "title": "Teks Eksposisi dan Argumentasi Sederhana",
+    "description": "Mengenal pendapat dan alasan; membedakan fakta dan pendapat sederhana; memahami informasi; menyampaikan pendapat",
+    "subtopics": [
+      "Mengenal pendapat dan alasan",
+      "Membedakan fakta dan pendapat sederhana",
+      "Memahami informasi",
+      "Menyampaikan pendapat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-07",
+    "sequence_number": 7,
+    "title": "Puisi dan Dongeng",
+    "description": "Unsur puisi anak; pilihan kata; irama; dongeng dan cerita inspiratif; menceritakan kembali isi karya sastra",
+    "subtopics": [
+      "Unsur puisi anak",
+      "Pilihan kata",
+      "Irama",
+      "Dongeng dan cerita inspiratif",
+      "Menceritakan kembali isi karya sastra"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 3,
+    "code": "BIND-SD3-08",
+    "sequence_number": 8,
+    "title": "Menulis dan Menyampaikan Pendapat",
+    "description": "Menulis paragraf; menyusun kalimat beragam; penggunaan kosakata baru; menyampaikan pendapat secara lisan",
+    "subtopics": [
+      "Menulis paragraf",
+      "Menyusun kalimat beragam",
+      "Penggunaan kosakata baru",
+      "Menyampaikan pendapat secara lisan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-01",
+    "sequence_number": 1,
+    "title": "Membaca Kritis Dasar",
+    "description": "Membaca teks cetak dan digital; menemukan ide pokok; mengidentifikasi informasi pendukung; memahami pesan teks",
+    "subtopics": [
+      "Membaca teks cetak dan digital",
+      "Menemukan ide pokok",
+      "Mengidentifikasi informasi pendukung",
+      "Memahami pesan teks"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-02",
+    "sequence_number": 2,
+    "title": "Teks Eksposisi Sederhana",
+    "description": "Pengertian teks eksposisi; tujuan teks; gagasan utama; informasi pendukung; menyusun teks eksposisi sederhana",
+    "subtopics": [
+      "Pengertian teks eksposisi",
+      "Tujuan teks",
+      "Gagasan utama",
+      "Informasi pendukung",
+      "Menyusun teks eksposisi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-03",
+    "sequence_number": 3,
+    "title": "Teks Argumentasi Sederhana",
+    "description": "Pengertian pendapat; alasan pendukung; fakta dan opini; menyampaikan argumen sederhana; menanggapi pendapat",
+    "subtopics": [
+      "Pengertian pendapat",
+      "Alasan pendukung",
+      "Fakta dan opini",
+      "Menyampaikan argumen sederhana",
+      "Menanggapi pendapat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-04",
+    "sequence_number": 4,
+    "title": "Teks Laporan Perjalanan",
+    "description": "Struktur laporan perjalanan; informasi tempat dan kegiatan; urutan peristiwa; menulis laporan perjalanan",
+    "subtopics": [
+      "Struktur laporan perjalanan",
+      "Informasi tempat dan kegiatan",
+      "Urutan peristiwa",
+      "Menulis laporan perjalanan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-05",
+    "sequence_number": 5,
+    "title": "Teks Petunjuk Arah",
+    "description": "Memahami petunjuk arah; membaca informasi lokasi; menggunakan kata arah; membuat petunjuk menuju suatu tempat",
+    "subtopics": [
+      "Memahami petunjuk arah",
+      "Membaca informasi lokasi",
+      "Menggunakan kata arah",
+      "Membuat petunjuk menuju suatu tempat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-06",
+    "sequence_number": 6,
+    "title": "Cerita Inspiratif dan Dongeng",
+    "description": "Unsur intrinsik cerita; karakter tokoh; konflik dan penyelesaian; pesan moral; menceritakan kembali cerita",
+    "subtopics": [
+      "Unsur intrinsik cerita",
+      "Karakter tokoh",
+      "Konflik dan penyelesaian",
+      "Pesan moral",
+      "Menceritakan kembali cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-07",
+    "sequence_number": 7,
+    "title": "Puisi Anak",
+    "description": "Makna puisi; pilihan kata; penggunaan bahasa kias sederhana; membaca puisi dengan intonasi dan ekspresi",
+    "subtopics": [
+      "Makna puisi",
+      "Pilihan kata",
+      "Penggunaan bahasa kias sederhana",
+      "Membaca puisi dengan intonasi dan ekspresi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 4,
+    "code": "BIND-SD4-08",
+    "sequence_number": 8,
+    "title": "Menulis dan Presentasi",
+    "description": "Menulis teks berdasarkan gagasan; mengembangkan paragraf; penggunaan ejaan; menyampaikan hasil tulisan; diskusi dan presentasi",
+    "subtopics": [
+      "Menulis teks berdasarkan gagasan",
+      "Mengembangkan paragraf",
+      "Penggunaan ejaan",
+      "Menyampaikan hasil tulisan",
+      "Diskusi dan presentasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-01",
+    "sequence_number": 1,
+    "title": "Membaca dan Menganalisis Informasi",
+    "description": "Membaca teks panjang; menemukan informasi penting; membedakan fakta dan opini; menyimpulkan isi bacaan",
+    "subtopics": [
+      "Membaca teks panjang",
+      "Menemukan informasi penting",
+      "Membedakan fakta dan opini",
+      "Menyimpulkan isi bacaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-02",
+    "sequence_number": 2,
+    "title": "Teks Prosedur",
+    "description": "Pengertian dan tujuan; struktur teks; kalimat perintah; kata kerja tindakan; menyusun teks prosedur",
+    "subtopics": [
+      "Pengertian dan tujuan",
+      "Struktur teks",
+      "Kalimat perintah",
+      "Kata kerja tindakan",
+      "Menyusun teks prosedur"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-03",
+    "sequence_number": 3,
+    "title": "Teks Pengumuman",
+    "description": "Tujuan pengumuman; unsur informasi; memahami isi pengumuman; menulis pengumuman",
+    "subtopics": [
+      "Tujuan pengumuman",
+      "Unsur informasi",
+      "Memahami isi pengumuman",
+      "Menulis pengumuman"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-04",
+    "sequence_number": 4,
+    "title": "Teks Laporan Hasil Observasi",
+    "description": "Pengertian observasi; objek pengamatan; mencatat fakta; struktur laporan; menyusun laporan sederhana",
+    "subtopics": [
+      "Pengertian observasi",
+      "Objek pengamatan",
+      "Mencatat fakta",
+      "Struktur laporan",
+      "Menyusun laporan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-05",
+    "sequence_number": 5,
+    "title": "Teks Eksplanasi Sederhana",
+    "description": "Pengertian teks eksplanasi; hubungan sebab-akibat; urutan proses; memahami fenomena alam dan sosial; menulis teks eksplanasi",
+    "subtopics": [
+      "Pengertian teks eksplanasi",
+      "Hubungan sebab-akibat",
+      "Urutan proses",
+      "Memahami fenomena alam dan sosial",
+      "Menulis teks eksplanasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-06",
+    "sequence_number": 6,
+    "title": "Teks Laporan Wawancara",
+    "description": "Menentukan topik; menyusun pertanyaan; melakukan wawancara; mencatat informasi; menyusun laporan wawancara",
+    "subtopics": [
+      "Menentukan topik",
+      "Menyusun pertanyaan",
+      "Melakukan wawancara",
+      "Mencatat informasi",
+      "Menyusun laporan wawancara"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-07",
+    "sequence_number": 7,
+    "title": "Pantun dan Puisi",
+    "description": "Ciri-ciri pantun; sampiran dan isi; rima; makna puisi; membuat pantun dan puisi",
+    "subtopics": [
+      "Ciri-ciri pantun",
+      "Sampiran dan isi",
+      "Rima",
+      "Makna puisi",
+      "Membuat pantun dan puisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-08",
+    "sequence_number": 8,
+    "title": "Drama Anak dan Cerita Rakyat",
+    "description": "Unsur drama; dialog dan tokoh; alur; karakter cerita rakyat; menyampaikan pesan cerita",
+    "subtopics": [
+      "Unsur drama",
+      "Dialog dan tokoh",
+      "Alur",
+      "Karakter cerita rakyat",
+      "Menyampaikan pesan cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 5,
+    "code": "BIND-SD5-09",
+    "sequence_number": 9,
+    "title": "Menulis Kreatif dan Presentasi",
+    "description": "Menulis berdasarkan pengamatan; menyusun teks kreatif; mengembangkan kosakata; mempresentasikan hasil karya",
+    "subtopics": [
+      "Menulis berdasarkan pengamatan",
+      "Menyusun teks kreatif",
+      "Mengembangkan kosakata",
+      "Mempresentasikan hasil karya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-01",
+    "sequence_number": 1,
+    "title": "Analisis Teks Informasi",
+    "description": "Menemukan informasi tersurat dan tersirat; membandingkan informasi; membuat simpulan; menganalisis isi teks",
+    "subtopics": [
+      "Menemukan informasi tersurat dan tersirat",
+      "Membandingkan informasi",
+      "Membuat simpulan",
+      "Menganalisis isi teks"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-02",
+    "sequence_number": 2,
+    "title": "Teks Laporan Hasil Observasi",
+    "description": "Struktur laporan; fakta dan hasil pengamatan; penggunaan kalimat efektif; menyusun laporan yang lebih lengkap",
+    "subtopics": [
+      "Struktur laporan",
+      "Fakta dan hasil pengamatan",
+      "Penggunaan kalimat efektif",
+      "Menyusun laporan yang lebih lengkap"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-03",
+    "sequence_number": 3,
+    "title": "Teks Eksplanasi",
+    "description": "Fenomena alam dan sosial; sebab dan akibat; urutan proses; hubungan antargagasan; menulis teks eksplanasi",
+    "subtopics": [
+      "Fenomena alam dan sosial",
+      "Sebab dan akibat",
+      "Urutan proses",
+      "Hubungan antargagasan",
+      "Menulis teks eksplanasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-04",
+    "sequence_number": 4,
+    "title": "Teks Persuasi dan Pendapat",
+    "description": "Mengenal ajakan dan imbauan; alasan pendukung; menyampaikan pendapat; menulis teks ajakan sederhana",
+    "subtopics": [
+      "Mengenal ajakan dan imbauan",
+      "Alasan pendukung",
+      "Menyampaikan pendapat",
+      "Menulis teks ajakan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-05",
+    "sequence_number": 5,
+    "title": "Teks Wawancara dan Penyajian Informasi",
+    "description": "Teknik wawancara; mengolah hasil wawancara; menyusun laporan; menyampaikan hasil wawancara",
+    "subtopics": [
+      "Teknik wawancara",
+      "Mengolah hasil wawancara",
+      "Menyusun laporan",
+      "Menyampaikan hasil wawancara"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-06",
+    "sequence_number": 6,
+    "title": "Sastra: Pantun, Puisi, dan Cerita Rakyat",
+    "description": "Analisis makna; nilai-nilai cerita; unsur sastra; menulis puisi dan pantun; menceritakan kembali",
+    "subtopics": [
+      "Analisis makna",
+      "Nilai-nilai cerita",
+      "Unsur sastra",
+      "Menulis puisi dan pantun",
+      "Menceritakan kembali"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-07",
+    "sequence_number": 7,
+    "title": "Drama dan Ekspresi Lisan",
+    "description": "Unsur drama; dialog; karakter tokoh; membaca naskah; bermain peran; menyampaikan ekspresi",
+    "subtopics": [
+      "Unsur drama",
+      "Dialog",
+      "Karakter tokoh",
+      "Membaca naskah",
+      "Bermain peran",
+      "Menyampaikan ekspresi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-08",
+    "sequence_number": 8,
+    "title": "Menulis Kreatif",
+    "description": "Mengembangkan gagasan; menyusun paragraf kompleks; penggunaan kosakata denotatif dan konotatif; menyunting tulisan",
+    "subtopics": [
+      "Mengembangkan gagasan",
+      "Menyusun paragraf kompleks",
+      "Penggunaan kosakata denotatif dan konotatif",
+      "Menyunting tulisan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 6,
+    "code": "BIND-SD6-09",
+    "sequence_number": 9,
+    "title": "Presentasi dan Komunikasi",
+    "description": "Menyampaikan gagasan; menyusun bahan presentasi; penggunaan intonasi; kesantunan berbahasa; menanggapi pertanyaan",
+    "subtopics": [
+      "Menyampaikan gagasan",
+      "Menyusun bahan presentasi",
+      "Penggunaan intonasi",
+      "Kesantunan berbahasa",
+      "Menanggapi pertanyaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-01",
+    "sequence_number": 1,
+    "title": "Teks Deskripsi",
+    "description": "Pengertian dan tujuan; struktur teks; identifikasi objek; penggunaan kata sifat dan kata konkret; deskripsi tempat, benda, dan suasana; menulis teks deskripsi",
+    "subtopics": [
+      "Pengertian dan tujuan",
+      "Struktur teks",
+      "Identifikasi objek",
+      "Penggunaan kata sifat dan kata konkret",
+      "Deskripsi tempat, benda, dan suasana",
+      "Menulis teks deskripsi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-02",
+    "sequence_number": 2,
+    "title": "Teks Prosedur",
+    "description": "Tujuan dan ciri teks prosedur; struktur langkah-langkah; kalimat perintah; kata kerja; konjungsi urutan; menulis petunjuk",
+    "subtopics": [
+      "Tujuan dan ciri teks prosedur",
+      "Struktur langkah-langkah",
+      "Kalimat perintah",
+      "Kata kerja",
+      "Konjungsi urutan",
+      "Menulis petunjuk"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-03",
+    "sequence_number": 3,
+    "title": "Teks Narasi dan Cerita Pendek",
+    "description": "Unsur intrinsik; tokoh dan penokohan; latar; alur; konflik; sudut pandang; pesan cerita",
+    "subtopics": [
+      "Unsur intrinsik",
+      "Tokoh dan penokohan",
+      "Latar",
+      "Alur",
+      "Konflik",
+      "Sudut pandang",
+      "Pesan cerita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-04",
+    "sequence_number": 4,
+    "title": "Teks Berita",
+    "description": "Unsur 5W+1H; struktur berita; fakta dan opini; judul dan teras berita; menyimpulkan isi berita",
+    "subtopics": [
+      "Unsur 5W+1H",
+      "Struktur berita",
+      "Fakta dan opini",
+      "Judul dan teras berita",
+      "Menyimpulkan isi berita"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-05",
+    "sequence_number": 5,
+    "title": "Teks Laporan Hasil Observasi",
+    "description": "Pengertian; struktur; klasifikasi objek; fakta hasil pengamatan; penggunaan istilah; menyusun laporan",
+    "subtopics": [
+      "Pengertian",
+      "Struktur",
+      "Klasifikasi objek",
+      "Fakta hasil pengamatan",
+      "Penggunaan istilah",
+      "Menyusun laporan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-06",
+    "sequence_number": 6,
+    "title": "Teks Iklan, Slogan, dan Poster",
+    "description": "Tujuan iklan; slogan; poster; kalimat persuasif; informasi visual; menganalisis pesan iklan",
+    "subtopics": [
+      "Tujuan iklan",
+      "Slogan",
+      "Poster",
+      "Kalimat persuasif",
+      "Informasi visual",
+      "Menganalisis pesan iklan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-07",
+    "sequence_number": 7,
+    "title": "Puisi dan Puisi Rakyat",
+    "description": "Unsur puisi; diksi; majas sederhana; rima; pantun; syair; gurindam; memahami makna puisi",
+    "subtopics": [
+      "Unsur puisi",
+      "Diksi",
+      "Majas sederhana",
+      "Rima",
+      "Pantun",
+      "Syair",
+      "Gurindam",
+      "Memahami makna puisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-08",
+    "sequence_number": 8,
+    "title": "Kebahasaan dan Ejaan",
+    "description": "Kata baku dan tidak baku; kalimat efektif; penggunaan huruf kapital; tanda baca; imbuhan; konjungsi",
+    "subtopics": [
+      "Kata baku dan tidak baku",
+      "Kalimat efektif",
+      "Penggunaan huruf kapital",
+      "Tanda baca",
+      "Imbuhan",
+      "Konjungsi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 7,
+    "code": "BIND-SMP7-09",
+    "sequence_number": 9,
+    "title": "Menulis dan Mempresentasikan",
+    "description": "Menyusun teks berdasarkan pengamatan; mengembangkan gagasan; menyampaikan pendapat; presentasi lisan; menanggapi pertanyaan",
+    "subtopics": [
+      "Menyusun teks berdasarkan pengamatan",
+      "Mengembangkan gagasan",
+      "Menyampaikan pendapat",
+      "Presentasi lisan",
+      "Menanggapi pertanyaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-01",
+    "sequence_number": 1,
+    "title": "Teks Berita dan Informasi Digital",
+    "description": "Struktur berita; unsur berita; membedakan fakta dan opini; membandingkan berita; memeriksa sumber informasi",
+    "subtopics": [
+      "Struktur berita",
+      "Unsur berita",
+      "Membedakan fakta dan opini",
+      "Membandingkan berita",
+      "Memeriksa sumber informasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-02",
+    "sequence_number": 2,
+    "title": "Teks Eksposisi",
+    "description": "Pengertian; struktur tesis, argumentasi, dan penegasan ulang; fakta dan opini; konjungsi argumentatif; menulis teks eksposisi",
+    "subtopics": [
+      "Pengertian",
+      "Struktur tesis, argumentasi, dan penegasan ulang",
+      "Fakta dan opini",
+      "Konjungsi argumentatif",
+      "Menulis teks eksposisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-03",
+    "sequence_number": 3,
+    "title": "Teks Tanggapan",
+    "description": "Pengertian; tujuan; struktur teks; menyampaikan kritik dan pujian; memberikan alasan; menulis tanggapan",
+    "subtopics": [
+      "Pengertian",
+      "Tujuan",
+      "Struktur teks",
+      "Menyampaikan kritik dan pujian",
+      "Memberikan alasan",
+      "Menulis tanggapan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-04",
+    "sequence_number": 4,
+    "title": "Teks Persuasi dan Iklan",
+    "description": "Tujuan persuasi; kalimat ajakan; penggunaan fakta dan alasan; bahasa persuasif; menganalisis iklan dan kampanye",
+    "subtopics": [
+      "Tujuan persuasi",
+      "Kalimat ajakan",
+      "Penggunaan fakta dan alasan",
+      "Bahasa persuasif",
+      "Menganalisis iklan dan kampanye"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-05",
+    "sequence_number": 5,
+    "title": "Teks Resensi Buku",
+    "description": "Pengertian resensi; identitas buku; ringkasan isi; kelebihan dan kekurangan; penilaian; menulis resensi sederhana",
+    "subtopics": [
+      "Pengertian resensi",
+      "Identitas buku",
+      "Ringkasan isi",
+      "Kelebihan dan kekurangan",
+      "Penilaian",
+      "Menulis resensi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-06",
+    "sequence_number": 6,
+    "title": "Teks Laporan dan Hasil Wawancara",
+    "description": "Menentukan topik; menyusun pertanyaan; teknik wawancara; mengolah data; menyusun laporan",
+    "subtopics": [
+      "Menentukan topik",
+      "Menyusun pertanyaan",
+      "Teknik wawancara",
+      "Mengolah data",
+      "Menyusun laporan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-07",
+    "sequence_number": 7,
+    "title": "Cerpen dan Drama",
+    "description": "Unsur intrinsik; konflik; penokohan; alur; dialog; interpretasi pesan; menulis cerita pendek",
+    "subtopics": [
+      "Unsur intrinsik",
+      "Konflik",
+      "Penokohan",
+      "Alur",
+      "Dialog",
+      "Interpretasi pesan",
+      "Menulis cerita pendek"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-08",
+    "sequence_number": 8,
+    "title": "Puisi dan Bahasa Figuratif",
+    "description": "Diksi; majas; citraan; rima; makna konotatif; menafsirkan puisi; menulis puisi",
+    "subtopics": [
+      "Diksi",
+      "Majas",
+      "Citraan",
+      "Rima",
+      "Makna konotatif",
+      "Menafsirkan puisi",
+      "Menulis puisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-09",
+    "sequence_number": 9,
+    "title": "Diskusi dan Presentasi",
+    "description": "Menyampaikan pendapat; menyusun argumen; menyanggah secara santun; menyampaikan solusi; presentasi kelompok",
+    "subtopics": [
+      "Menyampaikan pendapat",
+      "Menyusun argumen",
+      "Menyanggah secara santun",
+      "Menyampaikan solusi",
+      "Presentasi kelompok"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 8,
+    "code": "BIND-SMP8-10",
+    "sequence_number": 10,
+    "title": "Penyuntingan Teks",
+    "description": "Ejaan; tanda baca; kalimat efektif; kepaduan paragraf; pilihan kata; memperbaiki kesalahan tulisan",
+    "subtopics": [
+      "Ejaan",
+      "Tanda baca",
+      "Kalimat efektif",
+      "Kepaduan paragraf",
+      "Pilihan kata",
+      "Memperbaiki kesalahan tulisan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-01",
+    "sequence_number": 1,
+    "title": "Teks Diskusi",
+    "description": "Pengertian dan tujuan; isu; argumen pro dan kontra; simpulan; menilai kekuatan argumen; menulis teks diskusi",
+    "subtopics": [
+      "Pengertian dan tujuan",
+      "Isu",
+      "Argumen pro dan kontra",
+      "Simpulan",
+      "Menilai kekuatan argumen",
+      "Menulis teks diskusi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-02",
+    "sequence_number": 2,
+    "title": "Artikel Ilmiah Populer",
+    "description": "Ciri artikel ilmiah populer; fakta dan data; sumber informasi; hubungan sebab-akibat; penyusunan artikel",
+    "subtopics": [
+      "Ciri artikel ilmiah populer",
+      "Fakta dan data",
+      "Sumber informasi",
+      "Hubungan sebab-akibat",
+      "Penyusunan artikel"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-03",
+    "sequence_number": 3,
+    "title": "Teks Pidato",
+    "description": "Tujuan pidato; struktur pembukaan, isi, dan penutup; pengembangan gagasan; penggunaan bahasa persuasif; menyusun naskah pidato",
+    "subtopics": [
+      "Tujuan pidato",
+      "Struktur pembukaan, isi, dan penutup",
+      "Pengembangan gagasan",
+      "Penggunaan bahasa persuasif",
+      "Menyusun naskah pidato"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-04",
+    "sequence_number": 4,
+    "title": "Teks Tanggapan Kritis",
+    "description": "Mengidentifikasi isu; memberikan penilaian; menyusun alasan dan bukti; memberikan solusi; menulis tanggapan kritis",
+    "subtopics": [
+      "Mengidentifikasi isu",
+      "Memberikan penilaian",
+      "Menyusun alasan dan bukti",
+      "Memberikan solusi",
+      "Menulis tanggapan kritis"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-05",
+    "sequence_number": 5,
+    "title": "Teks Resensi Fiksi dan Nonfiksi",
+    "description": "Identitas karya; ringkasan; unsur dan kualitas karya; penilaian objektif; menyusun resensi",
+    "subtopics": [
+      "Identitas karya",
+      "Ringkasan",
+      "Unsur dan kualitas karya",
+      "Penilaian objektif",
+      "Menyusun resensi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-06",
+    "sequence_number": 6,
+    "title": "Berita dan Literasi Media",
+    "description": "Menganalisis isi berita; membedakan fakta dan opini; mengidentifikasi bias; memeriksa kredibilitas sumber; membandingkan informasi",
+    "subtopics": [
+      "Menganalisis isi berita",
+      "Membedakan fakta dan opini",
+      "Mengidentifikasi bias",
+      "Memeriksa kredibilitas sumber",
+      "Membandingkan informasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-07",
+    "sequence_number": 7,
+    "title": "Cerpen, Drama, dan Legenda",
+    "description": "Unsur intrinsik; interpretasi makna; nilai sosial dan budaya; sudut pandang; apresiasi karya; menulis karya sastra",
+    "subtopics": [
+      "Unsur intrinsik",
+      "Interpretasi makna",
+      "Nilai sosial dan budaya",
+      "Sudut pandang",
+      "Apresiasi karya",
+      "Menulis karya sastra"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-08",
+    "sequence_number": 8,
+    "title": "Puisi dan Puisi Rakyat",
+    "description": "Analisis diksi dan majas; makna tersurat dan tersirat; interpretasi pesan; menulis puisi; membacakan puisi",
+    "subtopics": [
+      "Analisis diksi dan majas",
+      "Makna tersurat dan tersirat",
+      "Interpretasi pesan",
+      "Menulis puisi",
+      "Membacakan puisi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-09",
+    "sequence_number": 9,
+    "title": "Argumentasi dan Presentasi",
+    "description": "Menyusun argumen logis; bukti pendukung; menyampaikan usul; memberikan solusi; diskusi dan gelar wicara",
+    "subtopics": [
+      "Menyusun argumen logis",
+      "Bukti pendukung",
+      "Menyampaikan usul",
+      "Memberikan solusi",
+      "Diskusi dan gelar wicara"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIN",
+    "grade_number": 9,
+    "code": "BIND-SMP9-10",
+    "sequence_number": 10,
+    "title": "Penulisan dan Penyuntingan Lanjutan",
+    "description": "Menyusun tulisan secara sistematis; mengembangkan paragraf; konsistensi gagasan; penggunaan kosakata denotatif, konotatif, dan kiasan; menyunting dan memublikasikan karya",
+    "subtopics": [
+      "Menyusun tulisan secara sistematis",
+      "Mengembangkan paragraf",
+      "Konsistensi gagasan",
+      "Penggunaan kosakata denotatif, konotatif, dan kiasan",
+      "Menyunting dan memublikasikan karya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-01",
+    "sequence_number": 1,
+    "title": "My First English Words",
+    "description": "Mengenal bahasa Inggris; alphabet; cara mengucapkan huruf; kosakata sederhana",
+    "subtopics": [
+      "Mengenal bahasa Inggris",
+      "Alphabet",
+      "Cara mengucapkan huruf",
+      "Kosakata sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-02",
+    "sequence_number": 2,
+    "title": "Greetings",
+    "description": "Hello; Hi; Good morning; Good afternoon; Goodbye",
+    "subtopics": [
+      "Hello",
+      "Hi",
+      "Good morning",
+      "Good afternoon",
+      "Goodbye"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-03",
+    "sequence_number": 3,
+    "title": "Numbers and Colors",
+    "description": "Angka 1–10; warna dasar; menyebutkan jumlah dan warna benda",
+    "subtopics": [
+      "Angka 1–10",
+      "Warna dasar",
+      "Menyebutkan jumlah dan warna benda"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-04",
+    "sequence_number": 4,
+    "title": "My Body",
+    "description": "Bagian tubuh; head, eyes, ears, nose, mouth, hands, feet; instruksi sederhana",
+    "subtopics": [
+      "Bagian tubuh",
+      "Head, eyes, ears, nose, mouth, hands, feet",
+      "Instruksi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-05",
+    "sequence_number": 5,
+    "title": "My Family",
+    "description": "Father, mother, brother, sister; mengenal dan menyebutkan anggota keluarga",
+    "subtopics": [
+      "Father, mother, brother, sister",
+      "Mengenal dan menyebutkan anggota keluarga"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 1,
+    "code": "BIG-SD1-06",
+    "sequence_number": 6,
+    "title": "Animals Around Me",
+    "description": "Nama hewan; suara hewan; ciri sederhana hewan",
+    "subtopics": [
+      "Nama hewan",
+      "Suara hewan",
+      "Ciri sederhana hewan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-01",
+    "sequence_number": 1,
+    "title": "My School",
+    "description": "Benda-benda di kelas; school objects; classroom vocabulary; instruksi di kelas",
+    "subtopics": [
+      "Benda-benda di kelas",
+      "School objects",
+      "Classroom vocabulary",
+      "Instruksi di kelas"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-02",
+    "sequence_number": 2,
+    "title": "My Daily Activities",
+    "description": "Wake up, take a bath, eat, study, play, sleep; urutan kegiatan sehari-hari",
+    "subtopics": [
+      "Wake up, take a bath, eat, study, play, sleep",
+      "Urutan kegiatan sehari-hari"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-03",
+    "sequence_number": 3,
+    "title": "Food and Drinks",
+    "description": "Nama makanan dan minuman; likes and dislikes; ungkapan sederhana tentang kesukaan",
+    "subtopics": [
+      "Nama makanan dan minuman",
+      "Likes and dislikes",
+      "Ungkapan sederhana tentang kesukaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-04",
+    "sequence_number": 4,
+    "title": "My Clothes",
+    "description": "Nama pakaian; warna pakaian; menyebutkan pakaian yang digunakan",
+    "subtopics": [
+      "Nama pakaian",
+      "Warna pakaian",
+      "Menyebutkan pakaian yang digunakan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-05",
+    "sequence_number": 5,
+    "title": "Days and Weather",
+    "description": "Nama hari; sunny, rainy, cloudy, windy; ungkapan cuaca sederhana",
+    "subtopics": [
+      "Nama hari",
+      "Sunny, rainy, cloudy, windy",
+      "Ungkapan cuaca sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 2,
+    "code": "BIG-SD2-06",
+    "sequence_number": 6,
+    "title": "Simple Questions and Responses",
+    "description": "What is this?; What color is it?; How are you?; Yes/No responses",
+    "subtopics": [
+      "What is this?",
+      "What color is it?",
+      "How are you?",
+      "Yes/No responses"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-01",
+    "sequence_number": 1,
+    "title": "Greetings and Leave-Taking",
+    "description": "Sapaan formal dan informal; greeting responses; saying goodbye; penggunaan sapaan sesuai situasi",
+    "subtopics": [
+      "Sapaan formal dan informal",
+      "Greeting responses",
+      "Saying goodbye",
+      "Penggunaan sapaan sesuai situasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-02",
+    "sequence_number": 2,
+    "title": "Introducing Yourself",
+    "description": "Menyebutkan nama; memperkenalkan diri; menanyakan nama; menyampaikan informasi sederhana tentang diri",
+    "subtopics": [
+      "Menyebutkan nama",
+      "Memperkenalkan diri",
+      "Menanyakan nama",
+      "Menyampaikan informasi sederhana tentang diri"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-03",
+    "sequence_number": 3,
+    "title": "Introducing Others",
+    "description": "Memperkenalkan teman; menanyakan identitas seseorang; menggunakan he, she, I, dan you dalam kalimat sederhana",
+    "subtopics": [
+      "Memperkenalkan teman",
+      "Menanyakan identitas seseorang",
+      "Menggunakan he, she, I, dan you dalam kalimat sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-04",
+    "sequence_number": 4,
+    "title": "Numbers, Time, and Personal Information",
+    "description": "Angka; umur; informasi pribadi sederhana; menanyakan dan menyampaikan umur",
+    "subtopics": [
+      "Angka",
+      "Umur",
+      "Informasi pribadi sederhana",
+      "Menanyakan dan menyampaikan umur"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-05",
+    "sequence_number": 5,
+    "title": "Classroom Expressions",
+    "description": "Memahami instruksi guru; meminta izin; meminta bantuan; merespons perintah sederhana",
+    "subtopics": [
+      "Memahami instruksi guru",
+      "Meminta izin",
+      "Meminta bantuan",
+      "Merespons perintah sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 3,
+    "code": "BIG-SD3-06",
+    "sequence_number": 6,
+    "title": "Simple Everyday Conversations",
+    "description": "Percakapan sederhana tentang diri, teman, keluarga, dan lingkungan sekolah",
+    "subtopics": [
+      "Percakapan sederhana tentang diri, teman, keluarga, dan lingkungan sekolah"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-01",
+    "sequence_number": 1,
+    "title": "Describing Location",
+    "description": "Menanyakan lokasi; menunjukkan letak benda; in, on, under, beside, behind, in front of",
+    "subtopics": [
+      "Menanyakan lokasi",
+      "Menunjukkan letak benda",
+      "In, on, under, beside, behind, in front of"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-02",
+    "sequence_number": 2,
+    "title": "Things Around the Classroom",
+    "description": "Nama benda di kelas; warna dan jumlah benda; mendeskripsikan lokasi benda",
+    "subtopics": [
+      "Nama benda di kelas",
+      "Warna dan jumlah benda",
+      "Mendeskripsikan lokasi benda"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-03",
+    "sequence_number": 3,
+    "title": "Places Around Me",
+    "description": "Tempat di sekolah dan lingkungan sekitar; school, library, market, park; menjelaskan lokasi sederhana",
+    "subtopics": [
+      "Tempat di sekolah dan lingkungan sekitar",
+      "School, library, market, park",
+      "Menjelaskan lokasi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-04",
+    "sequence_number": 4,
+    "title": "My House and Rooms",
+    "description": "Bagian rumah; nama ruangan; benda di dalam rumah; mendeskripsikan letak benda",
+    "subtopics": [
+      "Bagian rumah",
+      "Nama ruangan",
+      "Benda di dalam rumah",
+      "Mendeskripsikan letak benda"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-05",
+    "sequence_number": 5,
+    "title": "Simple Directions",
+    "description": "Kosakata arah; left, right, straight; memberikan petunjuk arah sederhana",
+    "subtopics": [
+      "Kosakata arah",
+      "Left, right, straight",
+      "Memberikan petunjuk arah sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 4,
+    "code": "BIG-SD4-06",
+    "sequence_number": 6,
+    "title": "Describing My Environment",
+    "description": "Mendeskripsikan ruang kelas, rumah, dan lingkungan sekitar dengan kalimat sederhana",
+    "subtopics": [
+      "Mendeskripsikan ruang kelas, rumah, dan lingkungan sekitar dengan kalimat sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-01",
+    "sequence_number": 1,
+    "title": "Describing Things",
+    "description": "Mendeskripsikan benda; warna; ukuran; bentuk; bahan; fungsi benda; penggunaan kata sifat",
+    "subtopics": [
+      "Mendeskripsikan benda",
+      "Warna",
+      "Ukuran",
+      "Bentuk",
+      "Bahan",
+      "Fungsi benda",
+      "Penggunaan kata sifat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-02",
+    "sequence_number": 2,
+    "title": "Describing People and Animals",
+    "description": "Mendeskripsikan ciri fisik seseorang; sifat sederhana; bagian tubuh hewan; karakteristik hewan",
+    "subtopics": [
+      "Mendeskripsikan ciri fisik seseorang",
+      "Sifat sederhana",
+      "Bagian tubuh hewan",
+      "Karakteristik hewan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-03",
+    "sequence_number": 3,
+    "title": "My Daily Activities",
+    "description": "Kegiatan sehari-hari; urutan aktivitas; waktu kegiatan; penggunaan simple present tense dalam konteks",
+    "subtopics": [
+      "Kegiatan sehari-hari",
+      "Urutan aktivitas",
+      "Waktu kegiatan",
+      "Penggunaan simple present tense dalam konteks"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-04",
+    "sequence_number": 4,
+    "title": "Giving and Following Instructions",
+    "description": "Memberikan instruksi; memahami perintah; imperative verbs; langkah-langkah kegiatan sederhana",
+    "subtopics": [
+      "Memberikan instruksi",
+      "Memahami perintah",
+      "Imperative verbs",
+      "Langkah-langkah kegiatan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-05",
+    "sequence_number": 5,
+    "title": "Healthy Habits",
+    "description": "Kebiasaan hidup sehat; makanan sehat; aktivitas fisik; instruksi menjaga kesehatan",
+    "subtopics": [
+      "Kebiasaan hidup sehat",
+      "Makanan sehat",
+      "Aktivitas fisik",
+      "Instruksi menjaga kesehatan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 5,
+    "code": "BIG-SD5-06",
+    "sequence_number": 6,
+    "title": "Talking About My Experiences",
+    "description": "Menceritakan pengalaman sederhana; kegiatan yang telah dilakukan; kosakata aktivitas masa lalu",
+    "subtopics": [
+      "Menceritakan pengalaman sederhana",
+      "Kegiatan yang telah dilakukan",
+      "Kosakata aktivitas masa lalu"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-01",
+    "sequence_number": 1,
+    "title": "Understanding Short Texts",
+    "description": "Membaca dan memahami teks pendek; menemukan informasi utama; mengenali informasi rinci",
+    "subtopics": [
+      "Membaca dan memahami teks pendek",
+      "Menemukan informasi utama",
+      "Mengenali informasi rinci"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-02",
+    "sequence_number": 2,
+    "title": "Describing People, Animals, and Places",
+    "description": "Mengembangkan deskripsi; ciri fisik dan karakteristik; mendeskripsikan tempat dengan kalimat lebih lengkap",
+    "subtopics": [
+      "Mengembangkan deskripsi",
+      "Ciri fisik dan karakteristik",
+      "Mendeskripsikan tempat dengan kalimat lebih lengkap"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-03",
+    "sequence_number": 3,
+    "title": "Recounting Past Experiences",
+    "description": "Menceritakan pengalaman masa lalu; urutan kejadian; penggunaan kata kerja bentuk lampau dalam konteks",
+    "subtopics": [
+      "Menceritakan pengalaman masa lalu",
+      "Urutan kejadian",
+      "Penggunaan kata kerja bentuk lampau dalam konteks"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-04",
+    "sequence_number": 4,
+    "title": "Simple Recount Text",
+    "description": "Tujuan dan struktur recount sederhana; orientation dan events; menyusun cerita pengalaman",
+    "subtopics": [
+      "Tujuan dan struktur recount sederhana",
+      "Orientation dan events",
+      "Menyusun cerita pengalaman"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-05",
+    "sequence_number": 5,
+    "title": "Procedure and Instructions",
+    "description": "Memahami urutan langkah; imperative verbs; menyusun petunjuk kegiatan sederhana",
+    "subtopics": [
+      "Memahami urutan langkah",
+      "Imperative verbs",
+      "Menyusun petunjuk kegiatan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 6,
+    "code": "BIG-SD6-06",
+    "sequence_number": 6,
+    "title": "Writing and Presenting Simple Texts",
+    "description": "Menulis teks pendek; menyunting kalimat sederhana; menceritakan atau mempresentasikan hasil tulisan",
+    "subtopics": [
+      "Menulis teks pendek",
+      "Menyunting kalimat sederhana",
+      "Menceritakan atau mempresentasikan hasil tulisan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-01",
+    "sequence_number": 1,
+    "title": "Getting to Know Each Other",
+    "description": "Perkenalan diri; menanyakan identitas; personal information; ungkapan dalam interaksi sosial",
+    "subtopics": [
+      "Perkenalan diri",
+      "Menanyakan identitas",
+      "Personal information",
+      "Ungkapan dalam interaksi sosial"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-02",
+    "sequence_number": 2,
+    "title": "Describing People",
+    "description": "Descriptive text; physical appearance; personality; family members; occupations; adjectives; possessive pronouns",
+    "subtopics": [
+      "Descriptive text",
+      "Physical appearance",
+      "Personality",
+      "Family members",
+      "Occupations",
+      "Adjectives",
+      "Possessive pronouns"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-03",
+    "sequence_number": 3,
+    "title": "Describing Animals",
+    "description": "Animal characteristics; body parts; habitats; abilities; describing animals using simple present tense",
+    "subtopics": [
+      "Animal characteristics",
+      "Body parts",
+      "Habitats",
+      "Abilities",
+      "Describing animals using simple present tense"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-04",
+    "sequence_number": 4,
+    "title": "Describing Places",
+    "description": "Describing places; locations; facilities; prepositions of place; adjectives; describing familiar places",
+    "subtopics": [
+      "Describing places",
+      "Locations",
+      "Facilities",
+      "Prepositions of place",
+      "Adjectives",
+      "Describing familiar places"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-05",
+    "sequence_number": 5,
+    "title": "Daily Activities and Habits",
+    "description": "Daily routines; hobbies; school activities; simple present tense; adverbs of frequency",
+    "subtopics": [
+      "Daily routines",
+      "Hobbies",
+      "School activities",
+      "Simple present tense",
+      "Adverbs of frequency"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 7,
+    "code": "BIG-SMP7-06",
+    "sequence_number": 6,
+    "title": "Reading and Listening for Information",
+    "description": "Memahami informasi utama; menemukan informasi rinci; memahami instruksi dan percakapan sederhana",
+    "subtopics": [
+      "Memahami informasi utama",
+      "Menemukan informasi rinci",
+      "Memahami instruksi dan percakapan sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-01",
+    "sequence_number": 1,
+    "title": "Recount Text",
+    "description": "Tujuan recount text; struktur orientation, events, reorientation; ciri kebahasaan",
+    "subtopics": [
+      "Tujuan recount text",
+      "Struktur orientation, events, reorientation",
+      "Ciri kebahasaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-02",
+    "sequence_number": 2,
+    "title": "Personal Experiences",
+    "description": "Menceritakan pengalaman pribadi; menyusun urutan kejadian; menyampaikan pengalaman secara lisan dan tulisan",
+    "subtopics": [
+      "Menceritakan pengalaman pribadi",
+      "Menyusun urutan kejadian",
+      "Menyampaikan pengalaman secara lisan dan tulisan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-03",
+    "sequence_number": 3,
+    "title": "Time Expressions and Past Verbs",
+    "description": "Keterangan waktu lampau; regular dan irregular verbs; penggunaan simple past dalam recount",
+    "subtopics": [
+      "Keterangan waktu lampau",
+      "Regular dan irregular verbs",
+      "Penggunaan simple past dalam recount"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-04",
+    "sequence_number": 4,
+    "title": "Procedure Text",
+    "description": "Tujuan procedure text; struktur goal, materials, steps; imperative sentences; sequence connectors",
+    "subtopics": [
+      "Tujuan procedure text",
+      "Struktur goal, materials, steps",
+      "Imperative sentences",
+      "Sequence connectors"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-05",
+    "sequence_number": 5,
+    "title": "Giving Instructions and Directions",
+    "description": "Memberikan instruksi; petunjuk arah; ungkapan meminta dan memberikan arahan",
+    "subtopics": [
+      "Memberikan instruksi",
+      "Petunjuk arah",
+      "Ungkapan meminta dan memberikan arahan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 8,
+    "code": "BIG-SMP8-06",
+    "sequence_number": 6,
+    "title": "Expressing Ideas and Experiences",
+    "description": "Menyampaikan gagasan; menceritakan pengalaman; memberikan tanggapan; percakapan dan presentasi sederhana",
+    "subtopics": [
+      "Menyampaikan gagasan",
+      "Menceritakan pengalaman",
+      "Memberikan tanggapan",
+      "Percakapan dan presentasi sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-01",
+    "sequence_number": 1,
+    "title": "Developing Descriptive and Recount Texts",
+    "description": "Mengembangkan deskripsi dan recount; memperkaya kosakata; menyusun paragraf; menyunting teks",
+    "subtopics": [
+      "Mengembangkan deskripsi dan recount",
+      "Memperkaya kosakata",
+      "Menyusun paragraf",
+      "Menyunting teks"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-02",
+    "sequence_number": 2,
+    "title": "Developing Procedure Texts",
+    "description": "Mengembangkan teks prosedur; menyusun langkah secara runtut; menggunakan gambar atau ilustrasi pendukung",
+    "subtopics": [
+      "Mengembangkan teks prosedur",
+      "Menyusun langkah secara runtut",
+      "Menggunakan gambar atau ilustrasi pendukung"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-03",
+    "sequence_number": 3,
+    "title": "Expressing Opinions",
+    "description": "Menyampaikan pendapat; agree dan disagree; memberikan alasan; menggunakan ungkapan pendapat",
+    "subtopics": [
+      "Menyampaikan pendapat",
+      "Agree dan disagree",
+      "Memberikan alasan",
+      "Menggunakan ungkapan pendapat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-04",
+    "sequence_number": 4,
+    "title": "Presenting Ideas and Experiences",
+    "description": "Menyusun presentasi; menyampaikan pengalaman; menjelaskan gagasan; merespons pertanyaan",
+    "subtopics": [
+      "Menyusun presentasi",
+      "Menyampaikan pengalaman",
+      "Menjelaskan gagasan",
+      "Merespons pertanyaan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-05",
+    "sequence_number": 5,
+    "title": "Understanding Multimodal Texts",
+    "description": "Memahami poster, infografis, pengumuman, gambar, dan teks digital; menghubungkan informasi verbal dan visual",
+    "subtopics": [
+      "Memahami poster, infografis, pengumuman, gambar, dan teks digital",
+      "Menghubungkan informasi verbal dan visual"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BIG",
+    "grade_number": 9,
+    "code": "BIG-SMP9-06",
+    "sequence_number": 6,
+    "title": "Discussion and Communication",
+    "description": "Diskusi sederhana; bertukar pendapat; memberikan tanggapan; menyampaikan kesimpulan",
+    "subtopics": [
+      "Diskusi sederhana",
+      "Bertukar pendapat",
+      "Memberikan tanggapan",
+      "Menyampaikan kesimpulan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-01",
+    "sequence_number": 1,
+    "title": "Sinau Basa Jawa",
+    "description": "Pengenalan Bahasa Jawa; bunyi dan pelafalan kosakata; sapaan sederhana; kebiasaan berbahasa di lingkungan dekat",
+    "subtopics": [
+      "Pengenalan Bahasa Jawa",
+      "Bunyi dan pelafalan kosakata",
+      "Sapaan sederhana",
+      "Kebiasaan berbahasa di lingkungan dekat"
+    ],
+    "objectives": [
+      "Siswa mengenali kosakata dasar dan menirukan pelafalan dengan bantuan audio/guru"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-02",
+    "sequence_number": 2,
+    "title": "Salam lan Pamit",
+    "description": "Salam dan pamit; sapaan berdasarkan waktu; respons sederhana",
+    "subtopics": [
+      "Salam dan pamit",
+      "Sapaan berdasarkan waktu",
+      "Respons sederhana"
+    ],
+    "objectives": [
+      "Siswa menggunakan salam dan ungkapan pamit dalam situasi sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-03",
+    "sequence_number": 3,
+    "title": "Kulawargaku",
+    "description": "Sebutan anggota keluarga; hubungan keluarga; memperkenalkan anggota keluarga",
+    "subtopics": [
+      "Sebutan anggota keluarga",
+      "Hubungan keluarga",
+      "Memperkenalkan anggota keluarga"
+    ],
+    "objectives": [
+      "Siswa menyebutkan dan memperkenalkan anggota keluarga dengan kalimat sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-04",
+    "sequence_number": 4,
+    "title": "Anggota Badan",
+    "description": "Bagian tubuh; fungsi sederhana; instruksi terkait anggota badan",
+    "subtopics": [
+      "Bagian tubuh",
+      "Fungsi sederhana",
+      "Instruksi terkait anggota badan"
+    ],
+    "objectives": [
+      "Siswa mengenali bagian tubuh dan memahami instruksi sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-05",
+    "sequence_number": 5,
+    "title": "Werna lan Barang",
+    "description": "Nama warna; benda di rumah/kelas; menyebut warna dan nama benda",
+    "subtopics": [
+      "Nama warna",
+      "Benda di rumah/kelas",
+      "Menyebut warna dan nama benda"
+    ],
+    "objectives": [
+      "Siswa mengidentifikasi benda dan menyebut warna atau ciri dasarnya"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 1,
+    "code": "BJ-SD1-06",
+    "sequence_number": 6,
+    "title": "Angka lan Dolanan",
+    "description": "Bilangan dasar; menghitung benda; nama permainan; instruksi bermain",
+    "subtopics": [
+      "Bilangan dasar",
+      "Menghitung benda",
+      "Nama permainan",
+      "Instruksi bermain"
+    ],
+    "objectives": [
+      "Siswa menggunakan bilangan dasar dan memahami instruksi permainan sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-01",
+    "sequence_number": 1,
+    "title": "Kegiyatanku Saben Dina",
+    "description": "Kegiatan harian; kata kerja umum; urutan kegiatan; penanda waktu sederhana",
+    "subtopics": [
+      "Kegiatan harian",
+      "Kata kerja umum",
+      "Urutan kegiatan",
+      "Penanda waktu sederhana"
+    ],
+    "objectives": [
+      "Siswa menceritakan urutan kegiatan sehari-hari dengan kalimat sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-02",
+    "sequence_number": 2,
+    "title": "Panggonan ing Omah",
+    "description": "Ruangan; benda di rumah; letak benda; ungkapan lokasi",
+    "subtopics": [
+      "Ruangan",
+      "Benda di rumah",
+      "Letak benda",
+      "Ungkapan lokasi"
+    ],
+    "objectives": [
+      "Siswa menyebut ruangan dan menjelaskan letak benda secara sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-03",
+    "sequence_number": 3,
+    "title": "Panggonan ing Sekolah",
+    "description": "Tempat di sekolah; warga sekolah; perlengkapan; instruksi kelas",
+    "subtopics": [
+      "Tempat di sekolah",
+      "Warga sekolah",
+      "Perlengkapan",
+      "Instruksi kelas"
+    ],
+    "objectives": [
+      "Siswa menyebut tempat/benda di sekolah dan memahami instruksi sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-04",
+    "sequence_number": 4,
+    "title": "Panganan lan Ombenan",
+    "description": "Makanan dan minuman; rasa; kesukaan; meminta/menawarkan dengan sopan",
+    "subtopics": [
+      "Makanan dan minuman",
+      "Rasa",
+      "Kesukaan",
+      "Meminta/menawarkan dengan sopan"
+    ],
+    "objectives": [
+      "Siswa menyebut makanan/minuman dan menyampaikan kesukaan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-05",
+    "sequence_number": 5,
+    "title": "Kewan ing Sakupenge",
+    "description": "Hewan di rumah dan lingkungan; ciri; suara; perawatan sederhana",
+    "subtopics": [
+      "Hewan di rumah dan lingkungan",
+      "Ciri",
+      "Suara",
+      "Perawatan sederhana"
+    ],
+    "objectives": [
+      "Siswa mengidentifikasi hewan dan menyampaikan ciri sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 2,
+    "code": "BJ-SD2-06",
+    "sequence_number": 6,
+    "title": "Ungkapan Sopan ing Padinan",
+    "description": "Matur nuwun; nyuwun tulung; nyuwun pangapunten; meminta izin; respons sopan",
+    "subtopics": [
+      "Matur nuwun",
+      "Nyuwun tulung",
+      "Nyuwun pangapunten",
+      "Meminta izin",
+      "Respons sopan"
+    ],
+    "objectives": [
+      "Siswa memilih ungkapan sopan dasar sesuai situasi sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-01",
+    "sequence_number": 1,
+    "title": "Pacelathon ing Omah",
+    "description": "Percakapan keluarga; bertanya/menjawab; giliran berbicara; ungkapan sehari-hari",
+    "subtopics": [
+      "Percakapan keluarga",
+      "Bertanya/menjawab",
+      "Giliran berbicara",
+      "Ungkapan sehari-hari"
+    ],
+    "objectives": [
+      "Siswa memahami dan mempraktikkan percakapan sederhana dalam konteks keluarga"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-02",
+    "sequence_number": 2,
+    "title": "Pacelathon ing Sekolah",
+    "description": "Percakapan dengan teman/guru; meminta bantuan/izin; menjawab pertanyaan",
+    "subtopics": [
+      "Percakapan dengan teman/guru",
+      "Meminta bantuan/izin",
+      "Menjawab pertanyaan"
+    ],
+    "objectives": [
+      "Siswa menyusun dan mempraktikkan dialog sederhana di sekolah"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-03",
+    "sequence_number": 3,
+    "title": "Unggah-Ungguh Basa: Ngoko lan Krama Dasar",
+    "description": "Konteks ngoko; ungkapan krama dasar; lawan bicara; contoh situasi",
+    "subtopics": [
+      "Konteks ngoko",
+      "Ungkapan krama dasar",
+      "Lawan bicara",
+      "Contoh situasi"
+    ],
+    "objectives": [
+      "Siswa membedakan penggunaan ungkapan dasar berdasarkan lawan bicara dan situasi dengan bimbingan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-04",
+    "sequence_number": 4,
+    "title": "Maca lan Nulis Ukara Basa Jawa",
+    "description": "Kosakata; susunan kalimat; membaca, menyalin, dan menyusun kalimat",
+    "subtopics": [
+      "Kosakata",
+      "Susunan kalimat",
+      "Membaca, menyalin, dan menyusun kalimat"
+    ],
+    "objectives": [
+      "Siswa membaca dan menulis kalimat sederhana dengan kosakata yang dipelajari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-05",
+    "sequence_number": 5,
+    "title": "Crita Kegiatan Saben Dina",
+    "description": "Urutan peristiwa; penanda waktu; teks pendek; menceritakan kembali",
+    "subtopics": [
+      "Urutan peristiwa",
+      "Penanda waktu",
+      "Teks pendek",
+      "Menceritakan kembali"
+    ],
+    "objectives": [
+      "Siswa memahami dan menceritakan kegiatan secara runtut"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 3,
+    "code": "BJ-SD3-06",
+    "sequence_number": 6,
+    "title": "Tembang Dolanan",
+    "description": "Menyimak tembang; kosakata; isi dan pesan; pelafalan/penampilan sederhana",
+    "subtopics": [
+      "Menyimak tembang",
+      "Kosakata",
+      "Isi dan pesan",
+      "Pelafalan/penampilan sederhana"
+    ],
+    "objectives": [
+      "Siswa memahami isi tembang dolanan dan menyampaikan maknanya"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-01",
+    "sequence_number": 1,
+    "title": "Katrangan Babagan Awak lan Kulawarga",
+    "description": "Ciri diri; anggota keluarga; kosakata sifat; paragraf deskriptif",
+    "subtopics": [
+      "Ciri diri",
+      "Anggota keluarga",
+      "Kosakata sifat",
+      "Paragraf deskriptif"
+    ],
+    "objectives": [
+      "Siswa menyusun deskripsi singkat tentang diri atau keluarga"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-02",
+    "sequence_number": 2,
+    "title": "Katrangan Panggonan lan Lingkungan",
+    "description": "Rumah, sekolah, lingkungan; letak; ciri tempat; kosakata lokasi",
+    "subtopics": [
+      "Rumah, sekolah, lingkungan",
+      "Letak",
+      "Ciri tempat",
+      "Kosakata lokasi"
+    ],
+    "objectives": [
+      "Siswa mendeskripsikan tempat secara runtut"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-03",
+    "sequence_number": 3,
+    "title": "Crita Pengalaman",
+    "description": "Pengalaman pribadi; urutan kejadian; awal-tengah-akhir; cerita lisan/tulis",
+    "subtopics": [
+      "Pengalaman pribadi",
+      "Urutan kejadian",
+      "Awal-tengah-akhir",
+      "Cerita lisan/tulis"
+    ],
+    "objectives": [
+      "Siswa menceritakan pengalaman sederhana secara runtut"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-04",
+    "sequence_number": 4,
+    "title": "Unggah-Ungguh ing Padinan",
+    "description": "Pemilihan ngoko/krama; percakapan dengan teman, guru, orang tua; praktik dialog",
+    "subtopics": [
+      "Pemilihan ngoko/krama",
+      "Percakapan dengan teman, guru, orang tua",
+      "Praktik dialog"
+    ],
+    "objectives": [
+      "Siswa memilih ungkapan yang sesuai dalam situasi sehari-hari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-05",
+    "sequence_number": 5,
+    "title": "Aksara Jawa: Pengenalan Aksara Legena",
+    "description": "Bentuk dan bunyi aksara legena; mencocokkan aksara-bunyi; membaca contoh terbatas",
+    "subtopics": [
+      "Bentuk dan bunyi aksara legena",
+      "Mencocokkan aksara-bunyi",
+      "Membaca contoh terbatas"
+    ],
+    "objectives": [
+      "Siswa mengenali aksara legena yang diajarkan dan membaca contoh sederhana dengan bimbingan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 4,
+    "code": "BJ-SD4-06",
+    "sequence_number": 6,
+    "title": "Parikan lan Tembang Dolanan",
+    "description": "Ciri parikan sederhana; struktur berdasarkan contoh; makna tembang; membuat parikan terbimbing",
+    "subtopics": [
+      "Ciri parikan sederhana",
+      "Struktur berdasarkan contoh",
+      "Makna tembang",
+      "Membuat parikan terbimbing"
+    ],
+    "objectives": [
+      "Siswa memahami isi parikan/tembang dan membuat parikan sederhana dengan contoh"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-01",
+    "sequence_number": 1,
+    "title": "Teks Deskripsi Basa Jawa",
+    "description": "Tujuan dan struktur deskripsi; kosakata sifat; rincian objek; deskripsi orang/benda/hewan/tempat",
+    "subtopics": [
+      "Tujuan dan struktur deskripsi",
+      "Kosakata sifat",
+      "Rincian objek",
+      "Deskripsi orang/benda/hewan/tempat"
+    ],
+    "objectives": [
+      "Siswa mengidentifikasi ciri teks deskripsi dan menulis deskripsi sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-02",
+    "sequence_number": 2,
+    "title": "Teks Narasi lan Crita Rakyat",
+    "description": "Unsur cerita; tokoh; latar; alur; amanat; cerita rakyat dari sumber terverifikasi",
+    "subtopics": [
+      "Unsur cerita",
+      "Tokoh",
+      "Latar",
+      "Alur",
+      "Amanat",
+      "Cerita rakyat dari sumber terverifikasi"
+    ],
+    "objectives": [
+      "Siswa menganalisis unsur cerita dan menceritakan kembali"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-03",
+    "sequence_number": 3,
+    "title": "Aksara Jawa: Pasangan",
+    "description": "Fungsi pasangan; hubungan dengan legena; membaca/menulis kata sederhana",
+    "subtopics": [
+      "Fungsi pasangan",
+      "Hubungan dengan legena",
+      "Membaca/menulis kata sederhana"
+    ],
+    "objectives": [
+      "Siswa menjelaskan fungsi pasangan dan menerapkannya pada contoh sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-04",
+    "sequence_number": 4,
+    "title": "Aksara Jawa: Sandhangan",
+    "description": "Sandhangan swara, panyigeg wanda, wyanjana sesuai urutan yang ditetapkan guru; penerapan",
+    "subtopics": [
+      "Sandhangan swara, panyigeg wanda, wyanjana sesuai urutan yang ditetapkan guru",
+      "Penerapan"
+    ],
+    "objectives": [
+      "Siswa mengenali fungsi sandhangan yang dipelajari dan membaca contoh kata"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-05",
+    "sequence_number": 5,
+    "title": "Tembang Macapat: Pengenalan",
+    "description": "Pengertian macapat; guru gatra, guru wilangan, guru lagu; menyimak contoh pilihan guru",
+    "subtopics": [
+      "Pengertian macapat",
+      "Guru gatra, guru wilangan, guru lagu",
+      "Menyimak contoh pilihan guru"
+    ],
+    "objectives": [
+      "Siswa mengenali ciri dasar macapat dan unsur pola secara sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 5,
+    "code": "BJ-SD5-06",
+    "sequence_number": 6,
+    "title": "Parikan lan Pangenalan Geguritan",
+    "description": "Bentuk/pesan parikan; pengenalan geguritan; tema; pilihan kata; karya sederhana",
+    "subtopics": [
+      "Bentuk/pesan parikan",
+      "Pengenalan geguritan",
+      "Tema",
+      "Pilihan kata",
+      "Karya sederhana"
+    ],
+    "objectives": [
+      "Siswa memahami parikan dan mengidentifikasi tema/pilihan kata dalam geguritan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-01",
+    "sequence_number": 1,
+    "title": "Teks Informasi Basa Jawa",
+    "description": "Gagasan utama; informasi rinci; fakta; menyampaikan kembali isi",
+    "subtopics": [
+      "Gagasan utama",
+      "Informasi rinci",
+      "Fakta",
+      "Menyampaikan kembali isi"
+    ],
+    "objectives": [
+      "Siswa menemukan informasi utama/rinci dan menyampaikan kembali isi teks"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-02",
+    "sequence_number": 2,
+    "title": "Teks Piwulang lan Pesen Moral",
+    "description": "Teks nasihat; nilai budi pekerti; pesan moral; ungkapan/peribahasa yang diverifikasi guru",
+    "subtopics": [
+      "Teks nasihat",
+      "Nilai budi pekerti",
+      "Pesan moral",
+      "Ungkapan/peribahasa yang diverifikasi guru"
+    ],
+    "objectives": [
+      "Siswa menjelaskan pesan teks dan menghubungkannya dengan perilaku sehari-hari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-03",
+    "sequence_number": 3,
+    "title": "Aksara Jawa: Tembung lan Ukara",
+    "description": "Penguatan legena, pasangan, sandhangan; membaca/menulis kata dan kalimat",
+    "subtopics": [
+      "Penguatan legena, pasangan, sandhangan",
+      "Membaca/menulis kata dan kalimat"
+    ],
+    "objectives": [
+      "Siswa membaca dan menulis kata/kalimat sederhana menggunakan unsur aksara yang dipelajari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-04",
+    "sequence_number": 4,
+    "title": "Tembang Macapat: Isi lan Paugeran Dasar",
+    "description": "Tembang pilihan; pola dasar; kosakata; parafrasa isi; pesan",
+    "subtopics": [
+      "Tembang pilihan",
+      "Pola dasar",
+      "Kosakata",
+      "Parafrasa isi",
+      "Pesan"
+    ],
+    "objectives": [
+      "Siswa menjelaskan isi/pesan tembang dan mengenali pola dasarnya"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-05",
+    "sequence_number": 5,
+    "title": "Geguritan: Apresiasi lan Karya Sederhana",
+    "description": "Tema; diksi; larik; suasana; makna; membaca ekspresif; menulis geguritan",
+    "subtopics": [
+      "Tema",
+      "Diksi",
+      "Larik",
+      "Suasana",
+      "Makna",
+      "Membaca ekspresif",
+      "Menulis geguritan"
+    ],
+    "objectives": [
+      "Siswa menafsirkan unsur dasar geguritan dan menghasilkan karya sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 6,
+    "code": "BJ-SD6-06",
+    "sequence_number": 6,
+    "title": "Nulis lan Nyritakake Pengalaman",
+    "description": "Perencanaan cerita; urutan; pilihan kosakata; revisi; presentasi lisan",
+    "subtopics": [
+      "Perencanaan cerita",
+      "Urutan",
+      "Pilihan kosakata",
+      "Revisi",
+      "Presentasi lisan"
+    ],
+    "objectives": [
+      "Siswa menulis pengalaman runtut, merevisi, dan menceritakannya"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-01",
+    "sequence_number": 1,
+    "title": "Unggah-Ungguh Basa Jawa ing Maneka Kahanan",
+    "description": "Ragam ngoko/krama sesuai bahan ajar; lawan bicara; tujuan; situasi; analisis dialog",
+    "subtopics": [
+      "Ragam ngoko/krama sesuai bahan ajar",
+      "Lawan bicara",
+      "Tujuan",
+      "Situasi",
+      "Analisis dialog"
+    ],
+    "objectives": [
+      "Siswa menganalisis dan memilih ragam bahasa yang sesuai dalam konteks beragam"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-02",
+    "sequence_number": 2,
+    "title": "Pacelathon lan Komunikasi",
+    "description": "Tujuan dialog; struktur percakapan; bertanya; meminta; berpendapat; etika komunikasi",
+    "subtopics": [
+      "Tujuan dialog",
+      "Struktur percakapan",
+      "Bertanya",
+      "Meminta",
+      "Berpendapat",
+      "Etika komunikasi"
+    ],
+    "objectives": [
+      "Siswa menyusun dan mempraktikkan dialog yang runtut dan sesuai konteks"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-03",
+    "sequence_number": 3,
+    "title": "Teks Deskripsi Basa Jawa",
+    "description": "Tujuan; struktur; ciri kebahasaan; rincian objek; kosakata; penyuntingan",
+    "subtopics": [
+      "Tujuan",
+      "Struktur",
+      "Ciri kebahasaan",
+      "Rincian objek",
+      "Kosakata",
+      "Penyuntingan"
+    ],
+    "objectives": [
+      "Siswa menganalisis dan menulis teks deskripsi dengan struktur dan kosakata sesuai"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-04",
+    "sequence_number": 4,
+    "title": "Teks Narasi lan Crita Rakyat",
+    "description": "Unsur cerita; alur; tokoh; latar; konflik; amanat; sumber; menceritakan kembali",
+    "subtopics": [
+      "Unsur cerita",
+      "Alur",
+      "Tokoh",
+      "Latar",
+      "Konflik",
+      "Amanat",
+      "Sumber",
+      "Menceritakan kembali"
+    ],
+    "objectives": [
+      "Siswa menganalisis unsur narasi dan menyampaikan interpretasi berdasarkan teks"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-05",
+    "sequence_number": 5,
+    "title": "Aksara Jawa: Penguatan Legena lan Pasangan",
+    "description": "Diagnostik awal; bentuk/bunyi; pasangan; membaca dan menulis kata/kalimat pendek",
+    "subtopics": [
+      "Diagnostik awal",
+      "Bentuk/bunyi",
+      "Pasangan",
+      "Membaca dan menulis kata/kalimat pendek"
+    ],
+    "objectives": [
+      "Siswa memperbaiki ketepatan membaca dan menulis aksara yang telah dipelajari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 7,
+    "code": "BJ-SMP7-06",
+    "sequence_number": 6,
+    "title": "Tembang Dolanan, Parikan, lan Pengenalan Wangsalan",
+    "description": "Makna tembang; struktur parikan; pengenalan wangsalan/cangkriman dari contoh; apresiasi",
+    "subtopics": [
+      "Makna tembang",
+      "Struktur parikan",
+      "Pengenalan wangsalan/cangkriman dari contoh",
+      "Apresiasi"
+    ],
+    "objectives": [
+      "Siswa menjelaskan makna karya dan membuat karya sederhana sesuai pola"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-01",
+    "sequence_number": 1,
+    "title": "Teks Pawarta",
+    "description": "Unsur 5W+1H; struktur; fakta/opini; sumber informasi; menulis pawarta",
+    "subtopics": [
+      "Unsur 5W+1H",
+      "Struktur",
+      "Fakta/opini",
+      "Sumber informasi",
+      "Menulis pawarta"
+    ],
+    "objectives": [
+      "Siswa mengevaluasi informasi pawarta dan menyusun berita dari sumber jelas"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-02",
+    "sequence_number": 2,
+    "title": "Teks Laporan Asil Observasi",
+    "description": "Tujuan observasi; objek/data; struktur laporan; fakta/opini; penyajian hasil",
+    "subtopics": [
+      "Tujuan observasi",
+      "Objek/data",
+      "Struktur laporan",
+      "Fakta/opini",
+      "Penyajian hasil"
+    ],
+    "objectives": [
+      "Siswa menyusun laporan observasi secara objektif berdasarkan data sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-03",
+    "sequence_number": 3,
+    "title": "Teks Pituduh utawa Prosedur",
+    "description": "Tujuan; alat/bahan; urutan langkah; kata kerja perintah; kejelasan instruksi",
+    "subtopics": [
+      "Tujuan",
+      "Alat/bahan",
+      "Urutan langkah",
+      "Kata kerja perintah",
+      "Kejelasan instruksi"
+    ],
+    "objectives": [
+      "Siswa memahami dan menulis teks prosedur yang runtut dan dapat diikuti"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-04",
+    "sequence_number": 4,
+    "title": "Aksara Jawa: Sandhangan lan Aksara Swara",
+    "description": "Penguatan sandhangan; pengenalan aksara swara; fungsi; membaca/menulis contoh",
+    "subtopics": [
+      "Penguatan sandhangan",
+      "Pengenalan aksara swara",
+      "Fungsi",
+      "Membaca/menulis contoh"
+    ],
+    "objectives": [
+      "Siswa menerapkan sandhangan dan aksara swara pada contoh yang dipelajari"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-05",
+    "sequence_number": 5,
+    "title": "Tembang Macapat: Paugeran lan Makna",
+    "description": "Guru gatra, guru wilangan, guru lagu; kosakata; isi; parafrasa; interpretasi",
+    "subtopics": [
+      "Guru gatra, guru wilangan, guru lagu",
+      "Kosakata",
+      "Isi",
+      "Parafrasa",
+      "Interpretasi"
+    ],
+    "objectives": [
+      "Siswa menganalisis pola dasar dan menjelaskan isi tembang pilihan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 8,
+    "code": "BJ-SMP8-06",
+    "sequence_number": 6,
+    "title": "Geguritan: Analisis lan Penciptaan",
+    "description": "Tema; diksi; citraan; larik; suasana; amanat; pembacaan dan penciptaan",
+    "subtopics": [
+      "Tema",
+      "Diksi",
+      "Citraan",
+      "Larik",
+      "Suasana",
+      "Amanat",
+      "Pembacaan dan penciptaan"
+    ],
+    "objectives": [
+      "Siswa menafsirkan unsur geguritan dan menghasilkan karya dengan pilihan kata terarah"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-01",
+    "sequence_number": 1,
+    "title": "Teks Sesorah",
+    "description": "Tujuan; struktur pembukaan-isi-penutup; pendengar; unggah-ungguh; intonasi; penyampaian",
+    "subtopics": [
+      "Tujuan",
+      "Struktur pembukaan-isi-penutup",
+      "Pendengar",
+      "Unggah-ungguh",
+      "Intonasi",
+      "Penyampaian"
+    ],
+    "objectives": [
+      "Siswa menyusun dan menyampaikan sesorah dengan struktur dan ragam bahasa sesuai"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-02",
+    "sequence_number": 2,
+    "title": "Teks Pranatacara",
+    "description": "Peran; susunan acara; ungkapan pembuka/transisi/penutup; ragam formal; praktik",
+    "subtopics": [
+      "Peran",
+      "Susunan acara",
+      "Ungkapan pembuka/transisi/penutup",
+      "Ragam formal",
+      "Praktik"
+    ],
+    "objectives": [
+      "Siswa menyusun naskah dan mempraktikkan pranatacara sederhana"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-03",
+    "sequence_number": 3,
+    "title": "Teks Biografi lan Sejarah",
+    "description": "Kronologi; fakta; sumber; biografi; peristiwa; ringkasan; fakta dan interpretasi",
+    "subtopics": [
+      "Kronologi",
+      "Fakta",
+      "Sumber",
+      "Biografi",
+      "Peristiwa",
+      "Ringkasan",
+      "Fakta dan interpretasi"
+    ],
+    "objectives": [
+      "Siswa memahami teks biografi/sejarah dan menyusun ringkasan dari informasi yang dapat ditelusuri"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-04",
+    "sequence_number": 4,
+    "title": "Aksara Jawa Lanjutan: Murda, Rekan, lan Angka",
+    "description": "Fungsi dan penggunaan murda, rekan, angka; batas penerapan; membaca/menulis contoh",
+    "subtopics": [
+      "Fungsi dan penggunaan murda, rekan, angka",
+      "Batas penerapan",
+      "Membaca/menulis contoh"
+    ],
+    "objectives": [
+      "Siswa mengenali fungsi unsur aksara lanjutan dan menerapkannya pada contoh terverifikasi"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-05",
+    "sequence_number": 5,
+    "title": "Sastra Jawa: Crita Cekak",
+    "description": "Unsur intrinsik; tokoh; konflik; alur; sudut pandang; gaya bahasa; menulis cerkak",
+    "subtopics": [
+      "Unsur intrinsik",
+      "Tokoh",
+      "Konflik",
+      "Alur",
+      "Sudut pandang",
+      "Gaya bahasa",
+      "Menulis cerkak"
+    ],
+    "objectives": [
+      "Siswa menganalisis cerkak dan menghasilkan cerita pendek dengan unsur jelas"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "BJ",
+    "grade_number": 9,
+    "code": "BJ-SMP9-06",
+    "sequence_number": 6,
+    "title": "Apresiasi Budaya lan Karya Jawa",
+    "description": "Karya sastra; seni/tradisi bersumber jelas; konteks lokal; dokumentasi; proyek apresiasi",
+    "subtopics": [
+      "Karya sastra",
+      "Seni/tradisi bersumber jelas",
+      "Konteks lokal",
+      "Dokumentasi",
+      "Proyek apresiasi"
+    ],
+    "objectives": [
+      "Siswa menyajikan proyek apresiasi berdasarkan sumber yang dapat dipertanggungjawabkan"
+    ],
+    "validation_status": "finalisasi_struktur_selesai_perlu_validasi_guru"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 3,
+    "code": "IPAS-SD3-01",
+    "sequence_number": 1,
+    "title": "Pancaindra dan Fungsinya",
+    "description": "Mengenal lima pancaindra; fungsi mata; fungsi telinga; fungsi hidung; fungsi lidah; fungsi kulit; cara merawat pancaindra",
+    "subtopics": [
+      "Mengenal lima pancaindra",
+      "Fungsi mata",
+      "Fungsi telinga",
+      "Fungsi hidung",
+      "Fungsi lidah",
+      "Fungsi kulit",
+      "Cara merawat pancaindra"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 3,
+    "code": "IPAS-SD3-02",
+    "sequence_number": 2,
+    "title": "Siklus Hidup Makhluk Hidup",
+    "description": "Ciri-ciri makhluk hidup; kebutuhan makhluk hidup; siklus hidup manusia; siklus hidup hewan; siklus hidup tumbuhan; metamorfosis; pelestarian makhluk hidup",
+    "subtopics": [
+      "Ciri-ciri makhluk hidup",
+      "Kebutuhan makhluk hidup",
+      "Siklus hidup manusia",
+      "Siklus hidup hewan",
+      "Siklus hidup tumbuhan",
+      "Metamorfosis",
+      "Pelestarian makhluk hidup"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 3,
+    "code": "IPAS-SD3-03",
+    "sequence_number": 3,
+    "title": "Lingkungan Sosial di Sekitar",
+    "description": "Lingkungan rumah dan sekolah; peran anggota keluarga; tugas dan tanggung jawab; interaksi sosial; kerja sama dan gotong royong; aturan dalam kehidupan bersama",
+    "subtopics": [
+      "Lingkungan rumah dan sekolah",
+      "Peran anggota keluarga",
+      "Tugas dan tanggung jawab",
+      "Interaksi sosial",
+      "Kerja sama dan gotong royong",
+      "Aturan dalam kehidupan bersama"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 3,
+    "code": "IPAS-SD3-04",
+    "sequence_number": 4,
+    "title": "Energi dan Perubahannya",
+    "description": "Pengertian energi; sumber energi; bentuk energi; energi panas, cahaya, bunyi, dan gerak; perubahan bentuk energi; pemanfaatan energi dalam kehidupan sehari-hari",
+    "subtopics": [
+      "Pengertian energi",
+      "Sumber energi",
+      "Bentuk energi",
+      "Energi panas, cahaya, bunyi, dan gerak",
+      "Perubahan bentuk energi",
+      "Pemanfaatan energi dalam kehidupan sehari-hari"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 3,
+    "code": "IPAS-SD3-05",
+    "sequence_number": 5,
+    "title": "Sejarah Lingkungan Tempat Tinggal",
+    "description": "Pengertian sejarah; sejarah keluarga; sejarah lingkungan tempat tinggal; perubahan lingkungan dari masa ke masa; sumber informasi sejarah; wawancara keluarga atau tokoh masyarakat",
+    "subtopics": [
+      "Pengertian sejarah",
+      "Sejarah keluarga",
+      "Sejarah lingkungan tempat tinggal",
+      "Perubahan lingkungan dari masa ke masa",
+      "Sumber informasi sejarah",
+      "Wawancara keluarga atau tokoh masyarakat"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-01",
+    "sequence_number": 1,
+    "title": "Uang dan Pengelolaan Keuangan",
+    "description": "Mengenal nilai mata uang rupiah; fungsi uang; kegiatan jual beli; kebutuhan dan keinginan; membuat anggaran sederhana; mengelola uang saku; kebiasaan menabung",
+    "subtopics": [
+      "Mengenal nilai mata uang rupiah",
+      "Fungsi uang",
+      "Kegiatan jual beli",
+      "Kebutuhan dan keinginan",
+      "Membuat anggaran sederhana",
+      "Mengelola uang saku",
+      "Kebiasaan menabung"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-02",
+    "sequence_number": 2,
+    "title": "Mengenal Wilayah Tempat Tinggal",
+    "description": "Pengertian peta; simbol dan legenda peta; arah mata angin; membaca peta kabupaten/kota; mengenal Provinsi Jawa Timur; mengenali letak Kabupaten Gresik; peta digital dan konvensional",
+    "subtopics": [
+      "Pengertian peta",
+      "Simbol dan legenda peta",
+      "Arah mata angin",
+      "Membaca peta kabupaten/kota",
+      "Mengenal Provinsi Jawa Timur",
+      "Mengenali letak Kabupaten Gresik",
+      "Peta digital dan konvensional"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-03",
+    "sequence_number": 3,
+    "title": "Zat dan Perubahan Wujudnya",
+    "description": "Mengenal benda padat, cair, dan gas; sifat zat; mencair; membeku; menguap; mengembun; menyublim; perubahan wujud dalam kehidupan sehari-hari",
+    "subtopics": [
+      "Mengenal benda padat, cair, dan gas",
+      "Sifat zat",
+      "Mencair",
+      "Membeku",
+      "Menguap",
+      "Mengembun",
+      "Menyublim",
+      "Perubahan wujud dalam kehidupan sehari-hari"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-04",
+    "sequence_number": 4,
+    "title": "Gaya dan Pengaruhnya",
+    "description": "Pengertian gaya; gaya otot; gaya gesek; gaya magnet; gaya gravitasi; pengaruh gaya terhadap arah gerak; pengaruh gaya terhadap kecepatan dan bentuk benda",
+    "subtopics": [
+      "Pengertian gaya",
+      "Gaya otot",
+      "Gaya gesek",
+      "Gaya magnet",
+      "Gaya gravitasi",
+      "Pengaruh gaya terhadap arah gerak",
+      "Pengaruh gaya terhadap kecepatan dan bentuk benda"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-05",
+    "sequence_number": 5,
+    "title": "Bentang Alam dan Kehidupan Masyarakat",
+    "description": "Bentang alam dataran rendah dan tinggi; sungai dan pantai; sumber daya alam; pekerjaan masyarakat berdasarkan kondisi wilayah; hubungan lingkungan dengan budaya; pelestarian alam",
+    "subtopics": [
+      "Bentang alam dataran rendah dan tinggi",
+      "Sungai dan pantai",
+      "Sumber daya alam",
+      "Pekerjaan masyarakat berdasarkan kondisi wilayah",
+      "Hubungan lingkungan dengan budaya",
+      "Pelestarian alam"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 4,
+    "code": "IPAS-SD4-06",
+    "sequence_number": 6,
+    "title": "Pelestarian Sumber Daya Alam",
+    "description": "Jenis sumber daya alam; sumber daya alam terbarukan dan tidak terbarukan; kerusakan lingkungan; pencemaran; perubahan iklim; penghematan sumber daya; aksi pelestarian lingkungan",
+    "subtopics": [
+      "Jenis sumber daya alam",
+      "Sumber daya alam terbarukan dan tidak terbarukan",
+      "Kerusakan lingkungan",
+      "Pencemaran",
+      "Perubahan iklim",
+      "Penghematan sumber daya",
+      "Aksi pelestarian lingkungan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-01",
+    "sequence_number": 1,
+    "title": "Sistem Organ Tubuh Manusia dan Kesehatan",
+    "description": "Organ tubuh manusia; sistem pencernaan; sistem pernapasan; sistem peredaran darah; sistem gerak; fungsi organ; hubungan antarsistem organ; pola makan bergizi; kebersihan diri; aktivitas fisik; istirahat yang cukup; kebiasaan menjaga kesehatan organ tubuh",
+    "subtopics": [
+      "Organ tubuh manusia",
+      "Sistem pencernaan",
+      "Sistem pernapasan",
+      "Sistem peredaran darah",
+      "Sistem gerak",
+      "Fungsi organ",
+      "Hubungan antarsistem organ",
+      "Pola makan bergizi",
+      "Kebersihan diri",
+      "Aktivitas fisik",
+      "Istirahat yang cukup",
+      "Kebiasaan menjaga kesehatan organ tubuh"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-02",
+    "sequence_number": 2,
+    "title": "Ekosistem dan Lingkungan",
+    "description": "Pengertian ekosistem; komponen biotik; komponen abiotik; hubungan makhluk hidup dengan lingkungan; rantai makanan; jaring-jaring makanan; keseimbangan ekosistem; dampak perubahan salah satu komponen ekosistem",
+    "subtopics": [
+      "Pengertian ekosistem",
+      "Komponen biotik",
+      "Komponen abiotik",
+      "Hubungan makhluk hidup dengan lingkungan",
+      "Rantai makanan",
+      "Jaring-jaring makanan",
+      "Keseimbangan ekosistem",
+      "Dampak perubahan salah satu komponen ekosistem"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-03",
+    "sequence_number": 3,
+    "title": "Bunyi dan Perambatannya",
+    "description": "Pengertian bunyi; sumber bunyi; getaran; perambatan bunyi; medium perambatan; pemantulan bunyi; pemanfaatan bunyi dalam kehidupan",
+    "subtopics": [
+      "Pengertian bunyi",
+      "Sumber bunyi",
+      "Getaran",
+      "Perambatan bunyi",
+      "Medium perambatan",
+      "Pemantulan bunyi",
+      "Pemanfaatan bunyi dalam kehidupan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-04",
+    "sequence_number": 4,
+    "title": "Cahaya dan Sifatnya",
+    "description": "Sumber cahaya; cahaya merambat lurus; pemantulan cahaya; pembiasan cahaya; benda bening dan tidak tembus cahaya; pemanfaatan cahaya",
+    "subtopics": [
+      "Sumber cahaya",
+      "Cahaya merambat lurus",
+      "Pemantulan cahaya",
+      "Pembiasan cahaya",
+      "Benda bening dan tidak tembus cahaya",
+      "Pemanfaatan cahaya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-05",
+    "sequence_number": 5,
+    "title": "Kondisi Geografis Indonesia",
+    "description": "Letak geografis Indonesia; letak astronomis sebagai pengayaan; pulau-pulau besar; kondisi wilayah Indonesia; kenampakan alam; iklim; pengaruh kondisi geografis terhadap kehidupan",
+    "subtopics": [
+      "Letak geografis Indonesia",
+      "Letak astronomis sebagai pengayaan",
+      "Pulau-pulau besar",
+      "Kondisi wilayah Indonesia",
+      "Kenampakan alam",
+      "Iklim",
+      "Pengaruh kondisi geografis terhadap kehidupan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 5,
+    "code": "IPAS-SD5-06",
+    "sequence_number": 6,
+    "title": "Sejarah Perjuangan Pahlawan",
+    "description": "Tokoh pahlawan nasional; perjuangan di berbagai daerah; peristiwa penting perjuangan kemerdekaan; nilai kepahlawanan; sejarah perjuangan di lingkungan sekitar berdasarkan sumber yang dapat diverifikasi",
+    "subtopics": [
+      "Tokoh pahlawan nasional",
+      "Perjuangan di berbagai daerah",
+      "Peristiwa penting perjuangan kemerdekaan",
+      "Nilai kepahlawanan",
+      "Sejarah perjuangan di lingkungan sekitar berdasarkan sumber yang dapat diverifikasi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 6,
+    "code": "IPAS-SD6-01",
+    "sequence_number": 1,
+    "title": "Tata Surya",
+    "description": "Pengertian tata surya; Matahari sebagai pusat tata surya; planet-planet; karakteristik planet; benda langit lainnya; urutan planet; pengenalan sistem tata surya",
+    "subtopics": [
+      "Pengertian tata surya",
+      "Matahari sebagai pusat tata surya",
+      "Planet-planet",
+      "Karakteristik planet",
+      "Benda langit lainnya",
+      "Urutan planet",
+      "Pengenalan sistem tata surya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 6,
+    "code": "IPAS-SD6-02",
+    "sequence_number": 2,
+    "title": "Rotasi dan Revolusi Bumi",
+    "description": "Pengertian rotasi Bumi; akibat rotasi Bumi; siang dan malam; pengertian revolusi Bumi; peredaran Bumi mengelilingi Matahari; pergantian tahun; pengaruh gerak Bumi",
+    "subtopics": [
+      "Pengertian rotasi Bumi",
+      "Akibat rotasi Bumi",
+      "Siang dan malam",
+      "Pengertian revolusi Bumi",
+      "Peredaran Bumi mengelilingi Matahari",
+      "Pergantian tahun",
+      "Pengaruh gerak Bumi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 6,
+    "code": "IPAS-SD6-03",
+    "sequence_number": 3,
+    "title": "Energi dan Perubahan Iklim",
+    "description": "Kebutuhan energi; sumber energi; energi terbarukan dan tidak terbarukan; penghematan energi; energi Matahari; energi angin; energi air; pemanfaatan energi alternatif; mitigasi perubahan iklim",
+    "subtopics": [
+      "Kebutuhan energi",
+      "Sumber energi",
+      "Energi terbarukan dan tidak terbarukan",
+      "Penghematan energi",
+      "Energi Matahari",
+      "Energi angin",
+      "Energi air",
+      "Pemanfaatan energi alternatif",
+      "Mitigasi perubahan iklim"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 6,
+    "code": "IPAS-SD6-04",
+    "sequence_number": 4,
+    "title": "Keragaman Budaya Indonesia",
+    "description": "Keragaman suku bangsa; bahasa daerah; pakaian adat; rumah adat; tarian tradisional; makanan khas; tradisi masyarakat; nilai kearifan lokal; kebinekaan dan pelestarian budaya",
+    "subtopics": [
+      "Keragaman suku bangsa",
+      "Bahasa daerah",
+      "Pakaian adat",
+      "Rumah adat",
+      "Tarian tradisional",
+      "Makanan khas",
+      "Tradisi masyarakat",
+      "Nilai kearifan lokal",
+      "Kebinekaan dan pelestarian budaya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPAS",
+    "grade_number": 6,
+    "code": "IPAS-SD6-05",
+    "sequence_number": 5,
+    "title": "Kegiatan Ekonomi Masyarakat dan Lingkungan Berkelanjutan",
+    "description": "Kebutuhan dan keinginan; kegiatan produksi; distribusi; konsumsi; jenis pekerjaan; sumber daya ekonomi; kegiatan ekonomi di lingkungan sekitar; hubungan kegiatan ekonomi dengan lingkungan; pemanfaatan sumber daya secara bijak; kegiatan ekonomi ramah lingkungan; pengelolaan sampah; penggunaan energi secara bijak; keseimbangan ekonomi dan kelestarian lingkungan",
+    "subtopics": [
+      "Kebutuhan dan keinginan",
+      "Kegiatan produksi",
+      "Distribusi",
+      "Konsumsi",
+      "Jenis pekerjaan",
+      "Sumber daya ekonomi",
+      "Kegiatan ekonomi di lingkungan sekitar",
+      "Hubungan kegiatan ekonomi dengan lingkungan",
+      "Pemanfaatan sumber daya secara bijak",
+      "Kegiatan ekonomi ramah lingkungan",
+      "Pengelolaan sampah",
+      "Penggunaan energi secara bijak",
+      "Keseimbangan ekonomi dan kelestarian lingkungan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-01",
+    "sequence_number": 1,
+    "title": "Identifikasi Makhluk Hidup",
+    "description": "Biologi: Ciri-ciri makhluk hidup; kebutuhan makhluk hidup; pengamatan karakteristik makhluk hidup; membedakan makhluk hidup dan benda tak hidup; penggunaan ciri yang dapat diamati untuk mengenali organisme",
+    "subtopics": [
+      "Ciri-ciri makhluk hidup",
+      "Kebutuhan makhluk hidup",
+      "Pengamatan karakteristik makhluk hidup",
+      "Membedakan makhluk hidup dan benda tak hidup",
+      "Penggunaan ciri yang dapat diamati untuk mengenali organisme"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-02",
+    "sequence_number": 2,
+    "title": "Klasifikasi Makhluk Hidup",
+    "description": "Biologi: Tujuan dan dasar klasifikasi; persamaan dan perbedaan ciri; pengelompokan makhluk hidup; pengenalan kelompok organisme; kunci determinasi sederhana; keanekaragaman makhluk hidup",
+    "subtopics": [
+      "Tujuan dan dasar klasifikasi",
+      "Persamaan dan perbedaan ciri",
+      "Pengelompokan makhluk hidup",
+      "Pengenalan kelompok organisme",
+      "Kunci determinasi sederhana",
+      "Keanekaragaman makhluk hidup"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-03",
+    "sequence_number": 3,
+    "title": "Pengukuran dalam IPA",
+    "description": "Fisika: Besaran dan satuan; besaran pokok dan turunan; satuan SI; alat ukur panjang, massa, waktu, suhu, dan volume; pemilihan alat ukur; konversi satuan sederhana; ketelitian dan pencatatan hasil pengukuran",
+    "subtopics": [
+      "Besaran dan satuan",
+      "Besaran pokok dan turunan",
+      "Satuan SI",
+      "Alat ukur panjang, massa, waktu, suhu, dan volume",
+      "Pemilihan alat ukur",
+      "Konversi satuan sederhana",
+      "Ketelitian dan pencatatan hasil pengukuran"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-04",
+    "sequence_number": 4,
+    "title": "Zat dan Perubahannya",
+    "description": "Kimia: Pengertian dan sifat zat; wujud zat; perubahan wujud; perubahan fisika dan kimia; zat tunggal dan campuran; larutan, suspensi, dan koloid sebagai pengenalan sesuai kedalaman; metode pemisahan campuran sederhana",
+    "subtopics": [
+      "Pengertian dan sifat zat",
+      "Wujud zat",
+      "Perubahan wujud",
+      "Perubahan fisika dan kimia",
+      "Zat tunggal dan campuran",
+      "Larutan, suspensi, dan koloid sebagai pengenalan sesuai kedalaman",
+      "Metode pemisahan campuran sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-05",
+    "sequence_number": 5,
+    "title": "Gerak dan Gaya",
+    "description": "Fisika: Konsep gerak; titik acuan; jarak dan perpindahan; kelajuan dan kecepatan; pengertian gaya; resultan gaya secara sederhana; gaya gesek; pengaruh gaya terhadap gerak dan bentuk benda; pengenalan hukum Newton sesuai kedalaman Fase D",
+    "subtopics": [
+      "Konsep gerak",
+      "Titik acuan",
+      "Jarak dan perpindahan",
+      "Kelajuan dan kecepatan",
+      "Pengertian gaya",
+      "Resultan gaya secara sederhana",
+      "Gaya gesek",
+      "Pengaruh gaya terhadap gerak dan bentuk benda",
+      "Pengenalan hukum Newton sesuai kedalaman Fase D"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-06",
+    "sequence_number": 6,
+    "title": "Tekanan",
+    "description": "Fisika: Konsep tekanan; tekanan pada zat padat; tekanan zat cair; faktor yang memengaruhi tekanan hidrostatis; prinsip Pascal; prinsip Archimedes; tekanan gas; penerapan tekanan dalam kehidupan",
+    "subtopics": [
+      "Konsep tekanan",
+      "Tekanan pada zat padat",
+      "Tekanan zat cair",
+      "Faktor yang memengaruhi tekanan hidrostatis",
+      "Prinsip Pascal",
+      "Prinsip Archimedes",
+      "Tekanan gas",
+      "Penerapan tekanan dalam kehidupan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 7,
+    "code": "IPA-SMP7-07",
+    "sequence_number": 7,
+    "title": "Suhu, Kalor, dan Perpindahan Kalor",
+    "description": "Fisika: Perbedaan suhu dan kalor; pengukuran suhu; skala termometer; kalor dan perubahan suhu; kalor dan perubahan wujud; konduksi; konveksi; radiasi; pemuaian dan penerapannya",
+    "subtopics": [
+      "Perbedaan suhu dan kalor",
+      "Pengukuran suhu",
+      "Skala termometer",
+      "Kalor dan perubahan suhu",
+      "Kalor dan perubahan wujud",
+      "Konduksi",
+      "Konveksi",
+      "Radiasi",
+      "Pemuaian dan penerapannya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-01",
+    "sequence_number": 1,
+    "title": "Bumi, Bulan, dan Matahari",
+    "description": "Bumi dan Antariksa: Gambaran sistem tata surya; karakteristik umum Matahari dan planet; rotasi dan revolusi Bumi; gerak Bulan; fase Bulan; gerhana Matahari dan Bulan; hubungan posisi relatif Bumi, Bulan, dan Matahari dengan fenomena yang diamati",
+    "subtopics": [
+      "Gambaran sistem tata surya",
+      "Karakteristik umum Matahari dan planet",
+      "Rotasi dan revolusi Bumi",
+      "Gerak Bulan",
+      "Fase Bulan",
+      "Gerhana Matahari dan Bulan",
+      "Hubungan posisi relatif Bumi, Bulan, dan Matahari dengan fenomena yang diamati"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-02",
+    "sequence_number": 2,
+    "title": "Sistem Organisasi Kehidupan",
+    "description": "Biologi: Sel sebagai unit dasar kehidupan; bagian dan fungsi sel; perbedaan umum sel tumbuhan dan hewan; jaringan; organ; sistem organ; hubungan antartingkat organisasi kehidupan",
+    "subtopics": [
+      "Sel sebagai unit dasar kehidupan",
+      "Bagian dan fungsi sel",
+      "Perbedaan umum sel tumbuhan dan hewan",
+      "Jaringan",
+      "Organ",
+      "Sistem organ",
+      "Hubungan antartingkat organisasi kehidupan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-03",
+    "sequence_number": 3,
+    "title": "Sistem Organ Manusia",
+    "description": "Biologi: Sistem pencernaan; sistem pernapasan; sistem peredaran darah; sistem ekskresi; sistem reproduksi; fungsi organ dan hubungan antarsistem; gangguan umum pada sistem organ; upaya menjaga kesehatan sistem organ",
+    "subtopics": [
+      "Sistem pencernaan",
+      "Sistem pernapasan",
+      "Sistem peredaran darah",
+      "Sistem ekskresi",
+      "Sistem reproduksi",
+      "Fungsi organ dan hubungan antarsistem",
+      "Gangguan umum pada sistem organ",
+      "Upaya menjaga kesehatan sistem organ"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-04",
+    "sequence_number": 4,
+    "title": "Zat Aditif dan Zat Adiktif",
+    "description": "Kimia/Biologi: Pengertian dan fungsi zat aditif; jenis zat aditif pada makanan dan minuman; bahan tambahan alami dan buatan; membaca informasi pada label; pengertian zat adiktif; dampak zat adiktif terhadap tubuh dan kehidupan; pencegahan penyalahgunaan zat berbahaya",
+    "subtopics": [
+      "Pengertian dan fungsi zat aditif",
+      "Jenis zat aditif pada makanan dan minuman",
+      "Bahan tambahan alami dan buatan",
+      "Membaca informasi pada label",
+      "Pengertian zat adiktif",
+      "Dampak zat adiktif terhadap tubuh dan kehidupan",
+      "Pencegahan penyalahgunaan zat berbahaya"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-05",
+    "sequence_number": 5,
+    "title": "Usaha dan Energi",
+    "description": "Fisika: Konsep usaha; hubungan gaya dan perpindahan; bentuk energi; energi kinetik; energi potensial; perubahan dan transformasi energi; hukum kekekalan energi; daya; penerapan konsep usaha dan energi",
+    "subtopics": [
+      "Konsep usaha",
+      "Hubungan gaya dan perpindahan",
+      "Bentuk energi",
+      "Energi kinetik",
+      "Energi potensial",
+      "Perubahan dan transformasi energi",
+      "Hukum kekekalan energi",
+      "Daya",
+      "Penerapan konsep usaha dan energi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 8,
+    "code": "IPA-SMP8-06",
+    "sequence_number": 6,
+    "title": "Gelombang dan Penerapannya",
+    "description": "Fisika: Getaran; amplitudo dan frekuensi; pengertian gelombang; gelombang transversal dan longitudinal; panjang gelombang dan cepat rambat secara sederhana; bunyi dan karakteristiknya; cahaya dan fenomena yang relevan; pemanfaatan gelombang dalam kehidupan dan teknologi",
+    "subtopics": [
+      "Getaran",
+      "Amplitudo dan frekuensi",
+      "Pengertian gelombang",
+      "Gelombang transversal dan longitudinal",
+      "Panjang gelombang dan cepat rambat secara sederhana",
+      "Bunyi dan karakteristiknya",
+      "Cahaya dan fenomena yang relevan",
+      "Pemanfaatan gelombang dalam kehidupan dan teknologi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-01",
+    "sequence_number": 1,
+    "title": "Pewarisan Sifat",
+    "description": "Biologi: Materi genetik; hubungan DNA, gen, dan kromosom; sifat yang diwariskan; pengenalan alel; sifat dominan dan resesif; pewarisan sifat dari orang tua; diagram dan persilangan sederhana; interpretasi kemungkinan hasil persilangan",
+    "subtopics": [
+      "Materi genetik",
+      "Hubungan DNA, gen, dan kromosom",
+      "Sifat yang diwariskan",
+      "Pengenalan alel",
+      "Sifat dominan dan resesif",
+      "Pewarisan sifat dari orang tua",
+      "Diagram dan persilangan sederhana",
+      "Interpretasi kemungkinan hasil persilangan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-02",
+    "sequence_number": 2,
+    "title": "Interaksi Makhluk Hidup dan Lingkungan",
+    "description": "Biologi: Komponen biotik dan abiotik; individu, populasi, komunitas, dan ekosistem; bentuk interaksi antarmakhluk hidup; rantai makanan; jaring-jaring makanan; aliran energi; keseimbangan ekosistem; perubahan pada ekosistem",
+    "subtopics": [
+      "Komponen biotik dan abiotik",
+      "Individu, populasi, komunitas, dan ekosistem",
+      "Bentuk interaksi antarmakhluk hidup",
+      "Rantai makanan",
+      "Jaring-jaring makanan",
+      "Aliran energi",
+      "Keseimbangan ekosistem",
+      "Perubahan pada ekosistem"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-03",
+    "sequence_number": 3,
+    "title": "Perubahan Iklim dan Pelestarian Lingkungan",
+    "description": "Terintegrasi: Cuaca dan iklim; efek rumah kaca; faktor penyebab perubahan iklim; aktivitas manusia yang berkontribusi terhadap perubahan iklim; dampak perubahan iklim; pencemaran dan kerusakan lingkungan sebagai isu terkait; mitigasi; adaptasi; tindakan pelestarian lingkungan",
+    "subtopics": [
+      "Cuaca dan iklim",
+      "Efek rumah kaca",
+      "Faktor penyebab perubahan iklim",
+      "Aktivitas manusia yang berkontribusi terhadap perubahan iklim",
+      "Dampak perubahan iklim",
+      "Pencemaran dan kerusakan lingkungan sebagai isu terkait",
+      "Mitigasi",
+      "Adaptasi",
+      "Tindakan pelestarian lingkungan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-04",
+    "sequence_number": 4,
+    "title": "Bioteknologi Konvensional",
+    "description": "Biologi/Kimia: Pengertian bioteknologi; pemanfaatan mikroorganisme; prinsip fermentasi; contoh produk fermentasi seperti tempe, tape, yoghurt, dan kecap; tahapan umum proses; manfaat dan keterbatasan; kebersihan dan keamanan praktik sederhana",
+    "subtopics": [
+      "Pengertian bioteknologi",
+      "Pemanfaatan mikroorganisme",
+      "Prinsip fermentasi",
+      "Contoh produk fermentasi seperti tempe, tape, yoghurt, dan kecap",
+      "Tahapan umum proses",
+      "Manfaat dan keterbatasan",
+      "Kebersihan dan keamanan praktik sederhana"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-05",
+    "sequence_number": 5,
+    "title": "Kemagnetan",
+    "description": "Fisika: Sifat magnet; kutub magnet; interaksi antarkutub; bahan magnetik; medan magnet; pola medan magnet; elektromagnet; faktor yang memengaruhi elektromagnet; penerapan magnet dalam teknologi",
+    "subtopics": [
+      "Sifat magnet",
+      "Kutub magnet",
+      "Interaksi antarkutub",
+      "Bahan magnetik",
+      "Medan magnet",
+      "Pola medan magnet",
+      "Elektromagnet",
+      "Faktor yang memengaruhi elektromagnet",
+      "Penerapan magnet dalam teknologi"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-06",
+    "sequence_number": 6,
+    "title": "Kelistrikan",
+    "description": "Fisika: Muatan listrik; listrik statis; gejala dan interaksi muatan; arus listrik; beda potensial; hambatan; rangkaian seri dan paralel; hubungan tegangan, arus, dan hambatan; energi dan daya listrik; keselamatan penggunaan listrik",
+    "subtopics": [
+      "Muatan listrik",
+      "Listrik statis",
+      "Gejala dan interaksi muatan",
+      "Arus listrik",
+      "Beda potensial",
+      "Hambatan",
+      "Rangkaian seri dan paralel",
+      "Hubungan tegangan, arus, dan hambatan",
+      "Energi dan daya listrik",
+      "Keselamatan penggunaan listrik"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPA",
+    "grade_number": 9,
+    "code": "IPA-SMP9-07",
+    "sequence_number": 7,
+    "title": "Energi Listrik Ramah Lingkungan",
+    "description": "Fisika/Terintegrasi: Sumber energi untuk pembangkitan listrik; sumber energi terbarukan; prinsip umum pembangkit listrik tenaga surya, angin, dan air; perbandingan kelebihan dan keterbatasan sumber energi; efisiensi dan penghematan energi; pemanfaatan energi yang lebih ramah lingkungan",
+    "subtopics": [
+      "Sumber energi untuk pembangkitan listrik",
+      "Sumber energi terbarukan",
+      "Prinsip umum pembangkit listrik tenaga surya, angin, dan air",
+      "Perbandingan kelebihan dan keterbatasan sumber energi",
+      "Efisiensi dan penghematan energi",
+      "Pemanfaatan energi yang lebih ramah lingkungan"
+    ],
+    "objectives": [],
+    "validation_status": "hasil_audit_struktur"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-01",
+    "sequence_number": 1,
+    "title": "Kondisi Geografis Indonesia",
+    "description": "Geografi: Pengertian letak geografis dan letak astronomis; Letak dan luas wilayah Indonesia; Kondisi geografis dan karakteristik wilayah Indonesia; Keragaman bentang alam; Pengaruh kondisi geografis terhadap kehidupan masyarakat; Pengenalan peta, simbol, legenda, skala, dan arah mata angin",
+    "local_context": "membaca peta wilayah Gresik daratan dan mengidentifikasi lingkungan permukiman serta bentang alam berdasarkan peta yang dapat dipertanggungjawabkan",
+    "curriculum_note": "bab ini menjadi fondasi sebelum siswa mempelajari konektivitas antarruang dan sumber daya alam",
+    "subtopics": [
+      "Pengertian letak geografis dan letak astronomis",
+      "Letak dan luas wilayah Indonesia",
+      "Kondisi geografis dan karakteristik wilayah Indonesia",
+      "Keragaman bentang alam",
+      "Pengaruh kondisi geografis terhadap kehidupan masyarakat",
+      "Pengenalan peta, simbol, legenda, skala, dan arah mata angin"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan letak geografis dan astronomis Indonesia secara sederhana",
+      "Peserta didik mampu mengidentifikasi karakteristik wilayah dan keragaman bentang alam Indonesia",
+      "Peserta didik mampu membaca informasi dasar pada peta",
+      "Peserta didik mampu menjelaskan contoh pengaruh kondisi geografis terhadap aktivitas masyarakat"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-02",
+    "sequence_number": 2,
+    "title": "Konektivitas Antarruang dan Sumber Daya Alam",
+    "description": "Geografi: Pengertian ruang dan konektivitas antarruang; Hubungan dan ketergantungan antarwilayah; Persebaran sumber daya alam; Jenis dan pemanfaatan sumber daya alam; Hubungan sumber daya alam dengan aktivitas manusia; Pelestarian sumber daya alam; Transportasi, distribusi, dan perdagangan antarruang",
+    "local_context": "hubungan permukiman, pasar, pertanian, tambak, dan pusat perdagangan di Gresik daratan; contoh harus disesuaikan dengan lokasi siswa",
+    "curriculum_note": "tekankan hubungan antara pemanfaatan dan pelestarian sumber daya, bukan sekadar menghafal jenis sumber daya",
+    "subtopics": [
+      "Pengertian ruang dan konektivitas antarruang",
+      "Hubungan dan ketergantungan antarwilayah",
+      "Persebaran sumber daya alam",
+      "Jenis dan pemanfaatan sumber daya alam",
+      "Hubungan sumber daya alam dengan aktivitas manusia",
+      "Pelestarian sumber daya alam",
+      "Transportasi, distribusi, dan perdagangan antarruang"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan hubungan antarwilayah dan faktor yang memengaruhinya",
+      "Peserta didik mampu mengidentifikasi jenis serta persebaran sumber daya alam",
+      "Peserta didik mampu menjelaskan hubungan pemanfaatan sumber daya dengan kegiatan masyarakat",
+      "Peserta didik mampu mengusulkan tindakan sederhana untuk menjaga kelestarian sumber daya"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-03",
+    "sequence_number": 3,
+    "title": "Aktivitas Manusia dan Perubahan Iklim",
+    "description": "Geografi: Pengertian cuaca dan iklim; Pengenalan perubahan iklim; Aktivitas manusia yang berkontribusi terhadap perubahan iklim; Dampak perubahan iklim yang dapat diamati; Pengaruh awal perubahan iklim terhadap kehidupan masyarakat; Perilaku ramah lingkungan dalam kehidupan sehari-hari",
+    "local_context": "pengamatan perubahan cuaca dan kondisi lingkungan sekitar siswa; contoh pertanian atau tambak hanya digunakan jika data atau pengamatannya tersedia",
+    "curriculum_note": "materi kelas VII dibatasi sebagai pengenalan. Analisis dampak dan adaptasi diperdalam di kelas VIII, sedangkan mitigasi dan pembangunan berkelanjutan dikembangkan di kelas IX",
+    "subtopics": [
+      "Pengertian cuaca dan iklim",
+      "Pengenalan perubahan iklim",
+      "Aktivitas manusia yang berkontribusi terhadap perubahan iklim",
+      "Dampak perubahan iklim yang dapat diamati",
+      "Pengaruh awal perubahan iklim terhadap kehidupan masyarakat",
+      "Perilaku ramah lingkungan dalam kehidupan sehari-hari"
+    ],
+    "objectives": [
+      "Peserta didik mampu membedakan cuaca dan iklim",
+      "Peserta didik mampu menjelaskan pengertian perubahan iklim secara sederhana",
+      "Peserta didik mampu mengidentifikasi contoh aktivitas manusia yang berkontribusi terhadap perubahan iklim",
+      "Peserta didik mampu menyebutkan dampak yang dapat diamati dan tindakan ramah lingkungan"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-04",
+    "sequence_number": 4,
+    "title": "Kegiatan Ekonomi dan Pemenuhan Kebutuhan",
+    "description": "Ekonomi: Pengertian kebutuhan dan keinginan; Jenis kebutuhan manusia; Kelangkaan sumber daya; Skala prioritas kebutuhan; Kegiatan produksi, distribusi, dan konsumsi; Pelaku kegiatan ekonomi; Peran rumah tangga, perusahaan, dan pemerintah",
+    "local_context": "kegiatan perdagangan, pertanian, perikanan, industri, dan jasa di Gresik daratan dengan contoh yang sesuai lingkungan siswa",
+    "curriculum_note": "bab ini merupakan pengantar ekonomi. Pembahasan pasar, harga, lembaga keuangan, dan perdagangan internasional ditempatkan pada kelas VIII",
+    "subtopics": [
+      "Pengertian kebutuhan dan keinginan",
+      "Jenis kebutuhan manusia",
+      "Kelangkaan sumber daya",
+      "Skala prioritas kebutuhan",
+      "Kegiatan produksi, distribusi, dan konsumsi",
+      "Pelaku kegiatan ekonomi",
+      "Peran rumah tangga, perusahaan, dan pemerintah"
+    ],
+    "objectives": [
+      "Peserta didik mampu membedakan kebutuhan dan keinginan",
+      "Peserta didik mampu menjelaskan kelangkaan dan alasan perlunya skala prioritas",
+      "Peserta didik mampu mengidentifikasi kegiatan produksi, distribusi, dan konsumsi",
+      "Peserta didik mampu menjelaskan peran pelaku ekonomi dalam kegiatan sehari-hari"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-05",
+    "sequence_number": 5,
+    "title": "Interaksi Sosial dan Lembaga Sosial",
+    "description": "Sosiologi: Pengertian interaksi sosial; Syarat terjadinya interaksi sosial; Bentuk interaksi sosial; Sosialisasi dalam kehidupan masyarakat; Nilai dan norma sosial; Kelompok sosial; Lembaga sosial: keluarga, pendidikan, agama, ekonomi, dan politik; Hubungan nilai, norma, lembaga, dan perilaku masyarakat; Dinamika sosial sederhana",
+    "local_context": "interaksi di keluarga, sekolah, pasar, dan lingkungan permukiman di Gresik daratan",
+    "curriculum_note": "bab ini menjadi fondasi untuk memahami perubahan sosial budaya di kelas VIII dan integrasi bangsa di kelas IX",
+    "subtopics": [
+      "Pengertian interaksi sosial",
+      "Syarat terjadinya interaksi sosial",
+      "Bentuk interaksi sosial",
+      "Sosialisasi dalam kehidupan masyarakat",
+      "Nilai dan norma sosial",
+      "Kelompok sosial",
+      "Lembaga sosial: keluarga, pendidikan, agama, ekonomi, dan politik",
+      "Hubungan nilai, norma, lembaga, dan perilaku masyarakat",
+      "Dinamika sosial sederhana"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan pengertian dan syarat interaksi sosial",
+      "Peserta didik mampu mengidentifikasi bentuk interaksi sosial dalam kehidupan sehari-hari",
+      "Peserta didik mampu menjelaskan fungsi nilai, norma, dan lembaga sosial",
+      "Peserta didik mampu menganalisis contoh hubungan antara norma dan perilaku masyarakat"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 7,
+    "code": "IPS-SMP7-06",
+    "sequence_number": 6,
+    "title": "Konsep Dasar Sejarah dan Sejarah Lokal",
+    "description": "Sejarah: Pengertian dan ruang lingkup sejarah; Manusia, ruang, dan waktu dalam sejarah; Kronologi dan urutan peristiwa; Perubahan dan kesinambungan; Sumber sejarah primer dan sekunder; Sejarah keluarga dan lingkungan sekitar; Pengenalan toponimi atau asal-usul nama tempat melalui sumber",
+    "local_context": "sejarah desa atau wilayah Gresik daratan berdasarkan arsip, dokumen, literatur, atau wawancara yang dapat ditelusuri",
+    "curriculum_note": "jangan menyajikan cerita asal-usul nama tempat atau peristiwa lokal sebagai fakta tanpa sumber yang dapat diperiksa",
+    "subtopics": [
+      "Pengertian dan ruang lingkup sejarah",
+      "Manusia, ruang, dan waktu dalam sejarah",
+      "Kronologi dan urutan peristiwa",
+      "Perubahan dan kesinambungan",
+      "Sumber sejarah primer dan sekunder",
+      "Sejarah keluarga dan lingkungan sekitar",
+      "Pengenalan toponimi atau asal-usul nama tempat melalui sumber"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan hubungan manusia, ruang, dan waktu dalam sejarah",
+      "Peserta didik mampu menyusun urutan peristiwa secara kronologis",
+      "Peserta didik mampu membedakan sumber sejarah primer dan sekunder secara sederhana",
+      "Peserta didik mampu mengumpulkan informasi sejarah keluarga atau lingkungan dengan mencatat sumbernya"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-01",
+    "sequence_number": 1,
+    "title": "Potensi Bencana Alam",
+    "description": "Geografi: Pengertian bencana alam; Jenis-jenis bencana alam; Faktor penyebab bencana; Hubungan kondisi geografis dengan potensi bencana; Pengaruh aktivitas manusia terhadap risiko bencana; Dampak bencana terhadap masyarakat; Kesiapsiagaan menghadapi bencana",
+    "local_context": "gunakan informasi kebencanaan wilayah Gresik dari sumber resmi yang relevan. Jangan mengasumsikan semua jenis bencana memiliki tingkat risiko yang sama di seluruh wilayah",
+    "curriculum_note": "bab ini membahas jenis, penyebab, karakteristik, dan risiko bencana. Bab VIII-2 berfokus pada dampak perubahan iklim dan adaptasi",
+    "subtopics": [
+      "Pengertian bencana alam",
+      "Jenis-jenis bencana alam",
+      "Faktor penyebab bencana",
+      "Hubungan kondisi geografis dengan potensi bencana",
+      "Pengaruh aktivitas manusia terhadap risiko bencana",
+      "Dampak bencana terhadap masyarakat",
+      "Kesiapsiagaan menghadapi bencana"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan pengertian dan jenis bencana alam",
+      "Peserta didik mampu menghubungkan kondisi geografis dengan potensi bencana",
+      "Peserta didik mampu mengidentifikasi dampak bencana terhadap kehidupan masyarakat",
+      "Peserta didik mampu menjelaskan langkah kesiapsiagaan sesuai jenis ancaman"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-02",
+    "sequence_number": 2,
+    "title": "Dampak Perubahan Iklim dan Adaptasi",
+    "description": "Geografi: Dampak perubahan iklim terhadap kehidupan ekonomi; Dampak perubahan iklim terhadap kehidupan sosial dan budaya; Perubahan pola mata pencaharian; Adaptasi masyarakat terhadap perubahan iklim; Hubungan perubahan iklim dengan risiko bencana; Upaya mitigasi dan pengurangan dampak; Pembangunan berkelanjutan dan pengenalan SDGs",
+    "local_context": "perubahan kondisi lingkungan, pertanian, atau tambak di Gresik daratan hanya dibahas jika didukung pengamatan atau data yang jelas",
+    "curriculum_note": "materi ini memperdalam pengenalan perubahan iklim di kelas VII. Mitigasi bencana dan pembangunan berkelanjutan dianalisis lebih lanjut di kelas IX",
+    "subtopics": [
+      "Dampak perubahan iklim terhadap kehidupan ekonomi",
+      "Dampak perubahan iklim terhadap kehidupan sosial dan budaya",
+      "Perubahan pola mata pencaharian",
+      "Adaptasi masyarakat terhadap perubahan iklim",
+      "Hubungan perubahan iklim dengan risiko bencana",
+      "Upaya mitigasi dan pengurangan dampak",
+      "Pembangunan berkelanjutan dan pengenalan SDGs"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan dampak perubahan iklim terhadap kehidupan masyarakat",
+      "Peserta didik mampu menganalisis contoh perubahan aktivitas ekonomi atau mata pencaharian",
+      "Peserta didik mampu membedakan adaptasi dan mitigasi secara kontekstual",
+      "Peserta didik mampu mengusulkan tindakan adaptasi yang sesuai dengan masalah yang dikaji"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-03",
+    "sequence_number": 3,
+    "title": "Pasar, Harga, dan Kegiatan Ekonomi",
+    "description": "Ekonomi: Pengertian dan fungsi pasar; Jenis-jenis pasar; Permintaan; Penawaran; Pembentukan harga; Faktor yang memengaruhi perubahan harga; Hubungan produsen dan konsumen",
+    "local_context": "pengamatan harga barang di pasar atau toko sekitar dengan mencatat waktu dan sumber pengamatan",
+    "curriculum_note": "menjadi pendalaman dari kegiatan produksi, distribusi, dan konsumsi kelas VII; fokus khusus pada pasar dan mekanisme harga",
+    "subtopics": [
+      "Pengertian dan fungsi pasar",
+      "Jenis-jenis pasar",
+      "Permintaan",
+      "Penawaran",
+      "Pembentukan harga",
+      "Faktor yang memengaruhi perubahan harga",
+      "Hubungan produsen dan konsumen"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan fungsi dan jenis pasar",
+      "Peserta didik mampu membedakan permintaan dan penawaran",
+      "Peserta didik mampu menjelaskan hubungan permintaan, penawaran, dan pembentukan harga",
+      "Peserta didik mampu membaca contoh perubahan harga berdasarkan informasi sederhana"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-04",
+    "sequence_number": 4,
+    "title": "Lembaga Keuangan",
+    "description": "Ekonomi: Pengertian dan fungsi lembaga keuangan; Bank dan lembaga keuangan nonbank; Tabungan dan manfaat menabung; Pinjaman dan kewajiban pengembalian; Layanan keuangan; Pengelolaan keuangan sederhana; Risiko utang dan perilaku bijak menggunakan layanan keuangan",
+    "local_context": "contoh layanan keuangan yang tersedia di lingkungan siswa, tanpa mempromosikan produk atau lembaga tertentu",
+    "curriculum_note": "tekankan literasi keuangan dasar, kehati-hatian, dan pemahaman risiko; bukan rekomendasi produk keuangan",
+    "subtopics": [
+      "Pengertian dan fungsi lembaga keuangan",
+      "Bank dan lembaga keuangan nonbank",
+      "Tabungan dan manfaat menabung",
+      "Pinjaman dan kewajiban pengembalian",
+      "Layanan keuangan",
+      "Pengelolaan keuangan sederhana",
+      "Risiko utang dan perilaku bijak menggunakan layanan keuangan"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan fungsi lembaga keuangan",
+      "Peserta didik mampu membedakan bank dan lembaga keuangan nonbank berdasarkan contoh",
+      "Peserta didik mampu menjelaskan manfaat tabungan dan konsekuensi pinjaman",
+      "Peserta didik mampu menyusun rencana pengelolaan uang sederhana dan mengenali risiko utang"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-05",
+    "sequence_number": 5,
+    "title": "Perdagangan Internasional",
+    "description": "Ekonomi: Pengertian perdagangan internasional; Faktor pendorong perdagangan antarnegara; Ekspor dan impor; Manfaat perdagangan internasional; Hambatan perdagangan internasional; Kerja sama ekonomi antarnegara; Pengaruh perdagangan internasional terhadap perekonomian Indonesia",
+    "local_context": "contoh produk atau kegiatan ekonomi Gresik yang keterkaitannya dengan perdagangan antardaerah/antarnegara dapat dibuktikan melalui sumber",
+    "curriculum_note": "perluasan dari kegiatan ekonomi lokal dan nasional menuju hubungan ekonomi antarnegara",
+    "subtopics": [
+      "Pengertian perdagangan internasional",
+      "Faktor pendorong perdagangan antarnegara",
+      "Ekspor dan impor",
+      "Manfaat perdagangan internasional",
+      "Hambatan perdagangan internasional",
+      "Kerja sama ekonomi antarnegara",
+      "Pengaruh perdagangan internasional terhadap perekonomian Indonesia"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan pengertian dan faktor pendorong perdagangan internasional",
+      "Peserta didik mampu membedakan ekspor dan impor",
+      "Peserta didik mampu menganalisis manfaat dan hambatan perdagangan internasional",
+      "Peserta didik mampu menjelaskan contoh pengaruh perdagangan internasional terhadap Indonesia"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 8,
+    "code": "IPS-SMP8-06",
+    "sequence_number": 6,
+    "title": "Perubahan Sosial dan Budaya Masyarakat",
+    "description": "Sosiologi: Pengertian perubahan sosial budaya; Faktor penyebab perubahan sosial; Faktor pendorong dan penghambat perubahan; Pengaruh teknologi dan globalisasi; Perubahan pola interaksi dan kehidupan masyarakat; Keberagaman budaya; Dampak positif dan negatif perubahan sosial; Sikap masyarakat dalam menghadapi perubahan",
+    "local_context": "perubahan pola pekerjaan, penggunaan teknologi, perdagangan, dan kehidupan permukiman di Gresik daratan berdasarkan pengamatan atau sumber yang jelas",
+    "curriculum_note": "menjadi pendalaman dari interaksi sosial dan lembaga sosial kelas VII. Fokusnya adalah proses dan dampak perubahan, bukan mengulang definisi interaksi",
+    "subtopics": [
+      "Pengertian perubahan sosial budaya",
+      "Faktor penyebab perubahan sosial",
+      "Faktor pendorong dan penghambat perubahan",
+      "Pengaruh teknologi dan globalisasi",
+      "Perubahan pola interaksi dan kehidupan masyarakat",
+      "Keberagaman budaya",
+      "Dampak positif dan negatif perubahan sosial",
+      "Sikap masyarakat dalam menghadapi perubahan"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan pengertian dan faktor perubahan sosial budaya",
+      "Peserta didik mampu mengidentifikasi pengaruh teknologi dan globalisasi terhadap kehidupan masyarakat",
+      "Peserta didik mampu membandingkan dampak positif dan negatif perubahan sosial",
+      "Peserta didik mampu menyusun sikap atau respons yang bertanggung jawab terhadap perubahan"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-01",
+    "sequence_number": 1,
+    "title": "Mitigasi Bencana dan Pembangunan Berkelanjutan",
+    "description": "Geografi: Pengertian mitigasi bencana; Upaya mengurangi risiko bencana; Kesiapsiagaan masyarakat; Peran pemerintah dan masyarakat; Hubungan mitigasi dengan pembangunan berkelanjutan; Pengenalan SDGs dan penerapannya dalam kehidupan",
+    "local_context": "gunakan dokumen dan data kebencanaan resmi yang relevan untuk Gresik daratan. Jangan membuat klaim tingkat risiko tanpa sumber",
+    "curriculum_note": "merupakan perkembangan dari pengenalan perubahan iklim kelas VII dan kajian bencana/adaptasi kelas VIII",
+    "subtopics": [
+      "Pengertian mitigasi bencana",
+      "Upaya mengurangi risiko bencana",
+      "Kesiapsiagaan masyarakat",
+      "Peran pemerintah dan masyarakat",
+      "Hubungan mitigasi dengan pembangunan berkelanjutan",
+      "Pengenalan SDGs dan penerapannya dalam kehidupan"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan konsep mitigasi dan pengurangan risiko bencana",
+      "Peserta didik mampu menganalisis hubungan ancaman, kerentanan, dan upaya pengurangan risiko secara sederhana",
+      "Peserta didik mampu menjelaskan peran masyarakat dan pemerintah dalam kesiapsiagaan",
+      "Peserta didik mampu menghubungkan mitigasi dengan prinsip pembangunan berkelanjutan"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-02",
+    "sequence_number": 2,
+    "title": "Ekonomi Digital dan Pertumbuhan Ekonomi",
+    "description": "Ekonomi: Pengertian ekonomi digital; Perkembangan teknologi dalam kegiatan ekonomi; Perdagangan elektronik; Pembayaran digital; Peluang usaha digital; Peran masyarakat dan pemerintah; Manfaat dan tantangan ekonomi digital",
+    "local_context": "contoh pelaku usaha atau layanan digital di Gresik daratan hanya digunakan jika sumber dan contohnya dapat diperiksa",
+    "curriculum_note": "fokus pada perubahan proses kegiatan ekonomi akibat teknologi; pembahasan potensi pembangunan nasional ditempatkan pada Bab IX-3",
+    "subtopics": [
+      "Pengertian ekonomi digital",
+      "Perkembangan teknologi dalam kegiatan ekonomi",
+      "Perdagangan elektronik",
+      "Pembayaran digital",
+      "Peluang usaha digital",
+      "Peran masyarakat dan pemerintah",
+      "Manfaat dan tantangan ekonomi digital"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan pengertian dan karakteristik ekonomi digital",
+      "Peserta didik mampu mengidentifikasi perubahan kegiatan ekonomi akibat teknologi",
+      "Peserta didik mampu menganalisis peluang dan tantangan perdagangan serta pembayaran digital",
+      "Peserta didik mampu menjelaskan peran masyarakat dan pemerintah dalam ekosistem ekonomi digital"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-03",
+    "sequence_number": 3,
+    "title": "Potensi Indonesia Menjadi Negara Maju",
+    "description": "Ekonomi: Potensi sumber daya alam Indonesia; Kualitas sumber daya manusia; Perkembangan teknologi dan industri; Infrastruktur dan konektivitas; Pertumbuhan dan pembangunan ekonomi; Tantangan pembangunan; Peran masyarakat dan pemerintah dalam pembangunan nasional",
+    "local_context": "industri, perdagangan, pertanian, perikanan, jasa, dan kualitas sumber daya manusia di Gresik daratan; gunakan data resmi jika menyertakan angka atau perbandingan",
+    "curriculum_note": "bedakan dengan Bab IX-2. Bab IX-2 membahas transformasi kegiatan ekonomi melalui teknologi; bab ini membahas faktor dan tantangan pembangunan nasional",
+    "subtopics": [
+      "Potensi sumber daya alam Indonesia",
+      "Kualitas sumber daya manusia",
+      "Perkembangan teknologi dan industri",
+      "Infrastruktur dan konektivitas",
+      "Pertumbuhan dan pembangunan ekonomi",
+      "Tantangan pembangunan",
+      "Peran masyarakat dan pemerintah dalam pembangunan nasional"
+    ],
+    "objectives": [
+      "Peserta didik mampu mengidentifikasi potensi sumber daya alam dan manusia Indonesia",
+      "Peserta didik mampu menjelaskan peran teknologi, industri, dan infrastruktur dalam pembangunan",
+      "Peserta didik mampu menganalisis tantangan pembangunan berdasarkan informasi atau data",
+      "Peserta didik mampu menyusun gagasan kontribusi masyarakat terhadap pembangunan"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-04",
+    "sequence_number": 4,
+    "title": "Integrasi Bangsa dan Kebinekaan",
+    "description": "Sosiologi: Pengertian integrasi bangsa; Keberagaman suku, agama, ras, dan budaya; Faktor pendorong integrasi; Faktor penghambat integrasi; Konflik sosial dan upaya penyelesaiannya; Toleransi dalam kehidupan masyarakat; Persatuan dan kesatuan; Peran masyarakat dalam menjaga kebinekaan",
+    "local_context": "keberagaman masyarakat di sekolah dan lingkungan permukiman Gresik daratan, dengan pendekatan inklusif dan tidak memberi label stereotip pada kelompok tertentu",
+    "curriculum_note": "merupakan pengembangan dari interaksi dan lembaga sosial kelas VII serta perubahan sosial budaya kelas VIII",
+    "subtopics": [
+      "Pengertian integrasi bangsa",
+      "Keberagaman suku, agama, ras, dan budaya",
+      "Faktor pendorong integrasi",
+      "Faktor penghambat integrasi",
+      "Konflik sosial dan upaya penyelesaiannya",
+      "Toleransi dalam kehidupan masyarakat",
+      "Persatuan dan kesatuan",
+      "Peran masyarakat dalam menjaga kebinekaan"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan konsep integrasi bangsa dan kebinekaan",
+      "Peserta didik mampu mengidentifikasi faktor pendorong dan penghambat integrasi",
+      "Peserta didik mampu menganalisis contoh konflik sosial serta alternatif penyelesaian secara damai",
+      "Peserta didik mampu merumuskan tindakan untuk menjaga toleransi dan persatuan"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-05",
+    "sequence_number": 5,
+    "title": "Peristiwa Sejarah Lokal, Nasional, dan Global",
+    "description": "Sejarah: Konsep dasar sejarah dan sumber sejarah; Kronologi peristiwa; Perubahan dan kesinambungan; Peristiwa penting pada tingkat lokal; Peristiwa penting pada tingkat nasional; Peristiwa penting pada tingkat global; Hubungan peristiwa masa lalu dengan kondisi masa kini",
+    "local_context": "peristiwa sejarah Gresik daratan dapat dipilih setelah tersedia arsip, literatur, dokumen resmi, atau wawancara yang dapat diverifikasi",
+    "curriculum_note": "menuntut analisis lebih tinggi daripada kelas VII yang berfokus pada pengenalan konsep dan sumber sejarah",
+    "subtopics": [
+      "Konsep dasar sejarah dan sumber sejarah",
+      "Kronologi peristiwa",
+      "Perubahan dan kesinambungan",
+      "Peristiwa penting pada tingkat lokal",
+      "Peristiwa penting pada tingkat nasional",
+      "Peristiwa penting pada tingkat global",
+      "Hubungan peristiwa masa lalu dengan kondisi masa kini"
+    ],
+    "objectives": [
+      "Peserta didik mampu menggunakan kronologi untuk menjelaskan urutan peristiwa",
+      "Peserta didik mampu membandingkan informasi dari sumber sejarah",
+      "Peserta didik mampu menganalisis perubahan, kesinambungan, dan hubungan sebab-akibat",
+      "Peserta didik mampu menjelaskan keterkaitan peristiwa masa lalu dengan kondisi masa kini berdasarkan sumber"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  },
+  {
+    "subject_code": "IPS",
+    "grade_number": 9,
+    "code": "IPS-SMP9-06",
+    "sequence_number": 6,
+    "title": "Asal-usul Nenek Moyang dan Jalur Rempah Nusantara",
+    "description": "Sejarah: Teori dan proses migrasi nenek moyang bangsa Indonesia; Migrasi Austronesia; Kehidupan masyarakat awal Nusantara; Jalur perdagangan rempah; Komoditas rempah Nusantara; Hubungan perdagangan antardaerah dan antarbangsa; Pengaruh jalur rempah terhadap sejarah Indonesia",
+    "local_context": "hubungan Gresik dengan sejarah perdagangan atau maritim hanya dimasukkan jika didukung sumber sejarah yang dapat diperiksa; jangan menyamakan konteks lokal dengan keseluruhan jalur rempah tanpa bukti",
+    "curriculum_note": "pembelajaran tidak berhenti pada hafalan teori migrasi atau nama rempah. Tekankan proses, jaringan hubungan, dan pengaruh historisnya",
+    "subtopics": [
+      "Teori dan proses migrasi nenek moyang bangsa Indonesia",
+      "Migrasi Austronesia",
+      "Kehidupan masyarakat awal Nusantara",
+      "Jalur perdagangan rempah",
+      "Komoditas rempah Nusantara",
+      "Hubungan perdagangan antardaerah dan antarbangsa",
+      "Pengaruh jalur rempah terhadap sejarah Indonesia"
+    ],
+    "objectives": [
+      "Peserta didik mampu menjelaskan gambaran proses migrasi nenek moyang berdasarkan sumber pembelajaran",
+      "Peserta didik mampu mengidentifikasi karakteristik kehidupan masyarakat awal Nusantara",
+      "Peserta didik mampu menjelaskan peran rempah dalam jaringan perdagangan",
+      "Peserta didik mampu menganalisis hubungan migrasi, perdagangan, dan perkembangan sejarah Nusantara"
+    ],
+    "validation_status": "perlu_pemeriksaan_rincian"
+  }
+]

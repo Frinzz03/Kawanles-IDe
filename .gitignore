@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.neon
+
+# Exclude local curriculum reference docs & root draft notes
+Kurikulum/
+/*.md
+!README.md

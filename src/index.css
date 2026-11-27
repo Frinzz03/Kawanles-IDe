@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --surface-canvas: #faf7f2;
+  --surface-rail: #f3ede2;
+  --surface-card: #ffffff;
+  --surface-subtle: #f6f2ea;
+  --border-subtle: #e6dfd2;
+  --border-strong: #d4cab8;
+  --ink-primary: #1a2421;
+  --ink-secondary: #51615c;
+  --ink-muted: #76857f;
+  --brand-forest: #0f4c42;
+  --brand-forest-hover: #0a3b33;
+  --brand-forest-soft: #e6f2ef;
+  --brand-ochre: #d96b27;
+  --brand-ochre-hover: #bd591b;
+  --brand-ochre-soft: #fdf0e6;
+  --radius-card: 1rem;
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Be Vietnam Pro', system-ui, -apple-system, sans-serif;
+    background-color: var(--surface-canvas);
+    color: var(--ink-primary);
+    caret-color: var(--brand-forest);
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: 'Bricolage Grotesque', 'Be Vietnam Pro', system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+  }
+
+  ::selection {
+    background-color: #cde8e1;
+    color: #0b332c;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--brand-forest);
+    outline-offset: 2px;
+  }
+
+  a {
+    text-underline-offset: 3px;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle themed scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d7cfc0;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #bfb4a1;
+}
+
+/* Purposeful micro-interactions (state feedback only) */
+@keyframes popIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.92) translateY(4px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes bounceSoft {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  45% {
+    transform: translateY(-4px) scale(1.03);
+  }
+}
+
+.animate-pop-in {
+  animation: popIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-bounce-soft {
+  animation: bounceSoft 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-pop-in,
+  .animate-bounce-soft {
+    animation: none;
+  }
+}
